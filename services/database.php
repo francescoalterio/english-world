@@ -53,7 +53,7 @@ class Database
             $sql->execute(["email" => $email]);
             $userData = $sql->fetch();
             if ($userData && password_verify($password, $userData['password'])) {
-                return ["status" => "success", ...$userData];
+                return ["status" => "success", "userData" => ["id" => $userData['id'], "username" => $userData['username'], "email" => $userData['email']]];
             } else {
                 return ["status" => "error", "message" => "The username or password is not correct."];
             }
