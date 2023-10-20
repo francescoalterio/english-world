@@ -48,11 +48,11 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <label for="email">
             Email
         </label>
-        <input id="email" type="email" name="email">
+        <input id="email" type="email" name="email" require>
         <label for="password">
             Password
         </label>
-        <input id="password" type="password" name="password">
+        <input id="password" type="password" name="password" require>
         <button type="submit">Login</button>
     </form>
     <script src="./js/login-validation.js"></script>

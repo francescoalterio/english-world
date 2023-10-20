@@ -54,19 +54,19 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         <label for="username">
             Username
         </label>
-        <input id="username" type="text" name="username">
+        <input id="username" type="text" name="username" require>
         <label for="email">
             Email
         </label>
-        <input id="email" type="email" name="email">
+        <input id="email" type="email" name="email" require>
         <label for="password">
             Password
         </label>
-        <input id="password" type="password" name="password">
+        <input id="password" type="password" name="password" require>
         <label for="repeat-password">
             Repeat Password
         </label>
-        <input id="repeat-password" type="password" name="repeat-password">
+        <input id="repeat-password" type="password" name="repeat-password" require>
         <button type="submit">Register</button>
     </form>
     <script src="./js/register-validation.js"></script>
