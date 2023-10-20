@@ -35,7 +35,7 @@ class Database
             $existingUser = $this->getUserByField("email", $email);
             if (!$existingUser) {
                 $sql = $this->connection->prepare("INSERT INTO users (id, username, email,password) VALUES (:id, :username, :email, :password)");
-                $sql->execute(['id' => $newID, "username" => $username, "email" => $email, "password" => $password]);
+                $sql->execute(['id' => $newID, "username" => $username, "email" => $email, "password" => password_hash($password, PASSWORD_BCRYPT)]);
                 $sql->fetch();
                 return ["status" => "success", "userID" => $newID];
             } else {
@@ -49,10 +49,10 @@ class Database
     function getUserByEmailAndPassword(string $email, string $password)
     {
         try {
-            $sql = $this->connection->prepare("SELECT id, username, email FROM users WHERE email = :email AND password = :password");
-            $sql->execute(["email" => $email, "password" => $password]);
+            $sql = $this->connection->prepare("SELECT * FROM users WHERE email = :email");
+            $sql->execute(["email" => $email]);
             $userData = $sql->fetch();
-            if ($userData) {
+            if ($userData && password_verify($password, $userData['password'])) {
                 return ["status" => "success", ...$userData];
             } else {
                 return ["status" => "error", "message" => "The username or password is not correct."];
