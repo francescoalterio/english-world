@@ -23,7 +23,10 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             if ($data['status'] === "error") {
                 $error = $data['message'];
             } else {
-                var_dump($data);
+                session_start();
+                $_SESSION['user'] = $data['userData'];
+                header("Location: index.php");
+                return;
             }
         } catch (PDOException $e) {
             $error = "The user could not be created, please try again.";

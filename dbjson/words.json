@@ -1,0 +1,2542 @@
+[
+  { "id": "1", "word": "a", "translate": "una", "base": "una" },
+  {
+    "id": "2",
+    "word": "ability",
+    "translate": "capacidad",
+    "base": "capacidad"
+  },
+  { "id": "3", "word": "able", "translate": "poder", "base": "poder" },
+  { "id": "4", "word": "about", "translate": "acerca de", "base": "acerca de" },
+  { "id": "5", "word": "above", "translate": "encima", "base": "encima" },
+  { "id": "6", "word": "acce ss", "translate": "acceso", "base": "acceso" },
+  { "id": "7", "word": "accept", "translate": "aceptar", "base": "aceptar" },
+  { "id": "8", "word": "accord", "translate": "acuerdo", "base": "acuerdo" },
+  { "id": "9", "word": "account", "translate": "cuenta", "base": "cuenta" },
+  { "id": "10", "word": "achieve", "translate": "lograr", "base": "lograr" },
+  {
+    "id": "11",
+    "word": "across",
+    "translate": "a través de",
+    "base": "a traves de"
+  },
+  { "id": "12", "word": "act", "translate": "acto", "base": "acto" },
+  { "id": "13", "word": "action", "translate": "acción", "base": "accion" },
+  {
+    "id": "14",
+    "word": "activity",
+    "translate": "actividad",
+    "base": "actividad"
+  },
+  {
+    "id": "15",
+    "word": "actually",
+    "translate": "en realidad / de hecho",
+    "base": "en realidad / de hecho"
+  },
+  { "id": "16", "word": "add", "translate": "añadir", "base": "añadir" },
+  { "id": "17", "word": "addition", "translate": "adición", "base": "adicion" },
+  {
+    "id": "18",
+    "word": "address",
+    "translate": "dirección",
+    "base": "direccion"
+  },
+  { "id": "19", "word": "adult", "translate": "adulto", "base": "adulto" },
+  { "id": "20", "word": "advance", "translate": "avanzar", "base": "avanzar" },
+  {
+    "id": "21",
+    "word": "advantage",
+    "translate": "ventaja",
+    "base": "ventaja"
+  },
+  { "id": "22", "word": "affect", "translate": "afectar", "base": "afectar" },
+  { "id": "23", "word": "after", "translate": "después", "base": "despues" },
+  { "id": "24", "word": "afternoon", "translate": "tarde", "base": "tarde" },
+  { "id": "25", "word": "again", "translate": "otra vez", "base": "otra vez" },
+  {
+    "id": "26",
+    "word": "against",
+    "translate": "en contra",
+    "base": "en contra"
+  },
+  { "id": "27", "word": "age", "translate": "años", "base": "años" },
+  { "id": "28", "word": "agency", "translate": "agencia", "base": "agencia" },
+  { "id": "29", "word": "agent", "translate": "agente", "base": "agente" },
+  { "id": "30", "word": "ago", "translate": "hace", "base": "hace" },
+  {
+    "id": "31",
+    "word": "agree",
+    "translate": "de acuerdo",
+    "base": "de acuerdo"
+  },
+  {
+    "id": "32",
+    "word": "agreement",
+    "translate": "acuerdo",
+    "base": "acuerdo"
+  },
+  { "id": "33", "word": "ahead", "translate": "adelante", "base": "adelante" },
+  { "id": "34", "word": "aim", "translate": "objetivo", "base": "objetivo" },
+  { "id": "35", "word": "air", "translate": "aire", "base": "aire" },
+  { "id": "36", "word": "all", "translate": "todos", "base": "todos" },
+  { "id": "37", "word": "allow", "translate": "permitir", "base": "permitir" },
+  { "id": "38", "word": "almost", "translate": "casi", "base": "casi" },
+  { "id": "39", "word": "alone", "translate": "solo", "base": "solo" },
+  {
+    "id": "40",
+    "word": "along",
+    "translate": "a lo largo",
+    "base": "a lo largo"
+  },
+  { "id": "41", "word": "already", "translate": "ya", "base": "ya" },
+  { "id": "42", "word": "also", "translate": "además", "base": "ademas" },
+  {
+    "id": "43",
+    "word": "although",
+    "translate": "a pesar de que",
+    "base": "a pesar de que"
+  },
+  { "id": "44", "word": "always", "translate": "siempre", "base": "siempre" },
+  { "id": "45", "word": "among", "translate": "entre", "base": "entre" },
+  { "id": "46", "word": "amount", "translate": "cantidad", "base": "cantidad" },
+  {
+    "id": "47",
+    "word": "analysis",
+    "translate": "análisis",
+    "base": "analisis"
+  },
+  { "id": "48", "word": "and", "translate": "y", "base": "y" },
+  { "id": "49", "word": "animal", "translate": "animal", "base": "animal" },
+  { "id": "50", "word": "another", "translate": "otro", "base": "otro" },
+  {
+    "id": "51",
+    "word": "answer",
+    "translate": "responder",
+    "base": "responder"
+  },
+  { "id": "52", "word": "any", "translate": "alguna", "base": "alguna" },
+  { "id": "53", "word": "anyone", "translate": "nadie", "base": "nadie" },
+  {
+    "id": "54",
+    "word": "anything",
+    "translate": "cualquier cosa",
+    "base": "cualquier cosa"
+  },
+  {
+    "id": "55",
+    "word": "anyway",
+    "translate": "de todas formas",
+    "base": "de todas formas"
+  },
+  { "id": "56", "word": "appear", "translate": "aparecer", "base": "aparecer" },
+  {
+    "id": "57",
+    "word": "application",
+    "translate": "solicitud",
+    "base": "solicitud"
+  },
+  { "id": "58", "word": "apply", "translate": "aplicar", "base": "aplicar" },
+  { "id": "59", "word": "approach", "translate": "enfoque", "base": "enfoque" },
+  { "id": "60", "word": "area", "translate": "zona", "base": "zona" },
+  { "id": "61", "word": "argue", "translate": "discutir", "base": "discutir" },
+  {
+    "id": "62",
+    "word": "argument",
+    "translate": "argumento",
+    "base": "argumento"
+  },
+  { "id": "63", "word": "arm", "translate": "brazo", "base": "brazo" },
+  {
+    "id": "64",
+    "word": "around",
+    "translate": "alrededor",
+    "base": "alrededor"
+  },
+  { "id": "65", "word": "arrive", "translate": "llegar", "base": "llegar" },
+  { "id": "66", "word": "art", "translate": "arte", "base": "arte" },
+  {
+    "id": "67",
+    "word": "article",
+    "translate": "artículo",
+    "base": "articulo"
+  },
+  { "id": "68", "word": "as", "translate": "como", "base": "como" },
+  { "id": "69", "word": "ask", "translate": "pedir", "base": "pedir" },
+  {
+    "id": "70",
+    "word": "associate",
+    "translate": "asociar",
+    "base": "asociar"
+  },
+  { "id": "71", "word": "assume", "translate": "asumir", "base": "asumir" },
+  { "id": "72", "word": "at", "translate": "en", "base": "en" },
+  { "id": "73", "word": "attack", "translate": "ataque", "base": "ataque" },
+  { "id": "74", "word": "attempt", "translate": "intento", "base": "intento" },
+  { "id": "75", "word": "attend", "translate": "asistir", "base": "asistir" },
+  {
+    "id": "76",
+    "word": "attention",
+    "translate": "atención",
+    "base": "atencion"
+  },
+  { "id": "77", "word": "author", "translate": "autor", "base": "autor" },
+  {
+    "id": "78",
+    "word": "available",
+    "translate": "disponible",
+    "base": "disponible"
+  },
+  {
+    "id": "79",
+    "word": "average",
+    "translate": "promedio",
+    "base": "promedio"
+  },
+  { "id": "80", "word": "avoid", "translate": "evitar", "base": "evitar" },
+  { "id": "81", "word": "away", "translate": "lejos", "base": "lejos" },
+  { "id": "82", "word": "baby", "translate": "bebé", "base": "bebe" },
+  { "id": "83", "word": "back", "translate": "atrás", "base": "atras" },
+  { "id": "84", "word": "bad", "translate": "malo", "base": "malo" },
+  {
+    "id": "85",
+    "word": "balance",
+    "translate": "equilibrar",
+    "base": "equilibrar"
+  },
+  { "id": "86", "word": "bank", "translate": "banco", "base": "banco" },
+  { "id": "87", "word": "bar", "translate": "bar", "base": "bar" },
+  { "id": "88", "word": "base", "translate": "base", "base": "base" },
+  { "id": "89", "word": "basic", "translate": "básico", "base": "basico" },
+  { "id": "90", "word": "basis", "translate": "base", "base": "base" },
+  {
+    "id": "91",
+    "word": "be",
+    "translate": "ser o estar",
+    "base": "ser o estar"
+  },
+  { "id": "92", "word": "bear", "translate": "oso", "base": "oso" },
+  {
+    "id": "93",
+    "word": "beautiful",
+    "translate": "hermoso",
+    "base": "hermoso"
+  },
+  { "id": "94", "word": "because", "translate": "porque", "base": "porque" },
+  { "id": "95", "word": "become", "translate": "volverse", "base": "volverse" },
+  { "id": "96", "word": "bed", "translate": "cama", "base": "cama" },
+  { "id": "97", "word": "before", "translate": "antes de", "base": "antes de" },
+  { "id": "98", "word": "begin", "translate": "empezar", "base": "empezar" },
+  {
+    "id": "99",
+    "word": "behavior",
+    "translate": "comportamiento",
+    "base": "comportamiento"
+  },
+  { "id": "100", "word": "behind", "translate": "detrás", "base": "detras" },
+  { "id": "101", "word": "believe", "translate": "creer", "base": "creer" },
+  { "id": "102", "word": "below", "translate": "abajo", "base": "abajo" },
+  {
+    "id": "103",
+    "word": "benefit",
+    "translate": "beneficio",
+    "base": "beneficio"
+  },
+  { "id": "104", "word": "between", "translate": "entre", "base": "entre" },
+  {
+    "id": "105",
+    "word": "beyond",
+    "translate": "más allá",
+    "base": "mas alla"
+  },
+  { "id": "106", "word": "big", "translate": "grande", "base": "grande" },
+  { "id": "107", "word": "bill", "translate": "cuenta", "base": "cuenta" },
+  { "id": "108", "word": "bit", "translate": "poco", "base": "poco" },
+  { "id": "109", "word": "black", "translate": "negro", "base": "negro" },
+  { "id": "110", "word": "blue", "translate": "azul", "base": "azul" },
+  { "id": "111", "word": "board", "translate": "tablero", "base": "tablero" },
+  { "id": "112", "word": "body", "translate": "cuerpo", "base": "cuerpo" },
+  { "id": "113", "word": "book", "translate": "libro", "base": "libro" },
+  { "id": "114", "word": "both", "translate": "ambos", "base": "ambos" },
+  { "id": "115", "word": "box", "translate": "caja", "base": "caja" },
+  { "id": "116", "word": "boy", "translate": "niño", "base": "niño" },
+  { "id": "117", "word": "break", "translate": "descanso", "base": "descanso" },
+  { "id": "118", "word": "bring", "translate": "traer", "base": "traer" },
+  { "id": "119", "word": "brother", "translate": "hermano", "base": "hermano" },
+  {
+    "id": "120",
+    "word": "build",
+    "translate": "construir",
+    "base": "construir"
+  },
+  { "id": "121", "word": "bus", "translate": "autobús", "base": "autobus" },
+  {
+    "id": "122",
+    "word": "business",
+    "translate": "negocio",
+    "base": "negocio"
+  },
+  { "id": "123", "word": "but", "translate": "pero", "base": "pero" },
+  { "id": "124", "word": "buy", "translate": "comprar", "base": "comprar" },
+  { "id": "125", "word": "by", "translate": "por", "base": "por" },
+  { "id": "126", "word": "call", "translate": "llamada", "base": "llamada" },
+  {
+    "id": "127",
+    "word": "campaign",
+    "translate": "campaña",
+    "base": "campaña"
+  },
+  { "id": "128", "word": "can", "translate": "puede", "base": "puede" },
+  { "id": "129", "word": "capital", "translate": "capital", "base": "capital" },
+  { "id": "130", "word": "car", "translate": "coche", "base": "coche" },
+  { "id": "131", "word": "card", "translate": "tarjeta", "base": "tarjeta" },
+  { "id": "132", "word": "care", "translate": "cuidado", "base": "cuidado" },
+  { "id": "133", "word": "career", "translate": "carrera", "base": "carrera" },
+  { "id": "134", "word": "carry", "translate": "llevar", "base": "llevar" },
+  { "id": "135", "word": "case", "translate": "caso", "base": "caso" },
+  { "id": "136", "word": "catch", "translate": "captura", "base": "captura" },
+  { "id": "137", "word": "cause", "translate": "porque", "base": "porque" },
+  { "id": "138", "word": "cell", "translate": "célula", "base": "celula" },
+  { "id": "139", "word": "cent", "translate": "centavo", "base": "centavo" },
+  { "id": "140", "word": "center", "translate": "centrar", "base": "centrar" },
+  { "id": "141", "word": "central", "translate": "central", "base": "central" },
+  { "id": "142", "word": "century", "translate": "siglo", "base": "siglo" },
+  { "id": "143", "word": "certain", "translate": "cierto", "base": "cierto" },
+  {
+    "id": "144",
+    "word": "certainly",
+    "translate": "ciertamente",
+    "base": "ciertamente"
+  },
+  { "id": "145", "word": "challenge", "translate": "reto", "base": "reto" },
+  {
+    "id": "146",
+    "word": "chance",
+    "translate": "oportunidad",
+    "base": "oportunidad"
+  },
+  { "id": "147", "word": "change", "translate": "cambio", "base": "cambio" },
+  {
+    "id": "148",
+    "word": "character",
+    "translate": "personaje",
+    "base": "personaje"
+  },
+  { "id": "149", "word": "charge", "translate": "cargar", "base": "cargar" },
+  {
+    "id": "150",
+    "word": "check",
+    "translate": "comprobar",
+    "base": "comprobar"
+  },
+  { "id": "151", "word": "child", "translate": "niño", "base": "niño" },
+  {
+    "id": "152",
+    "word": "choice",
+    "translate": "elección",
+    "base": "eleccion"
+  },
+  { "id": "153", "word": "choose", "translate": "escoger", "base": "escoger" },
+  { "id": "154", "word": "church", "translate": "iglesia", "base": "iglesia" },
+  { "id": "155", "word": "city", "translate": "ciudad", "base": "ciudad" },
+  {
+    "id": "156",
+    "word": "claim",
+    "translate": "reclamación",
+    "base": "reclamacion"
+  },
+  { "id": "157", "word": "class", "translate": "clase", "base": "clase" },
+  { "id": "158", "word": "clean", "translate": "limpiar", "base": "limpiar" },
+  { "id": "159", "word": "clear", "translate": "claro", "base": "claro" },
+  {
+    "id": "160",
+    "word": "clearly",
+    "translate": "claramente",
+    "base": "claramente"
+  },
+  { "id": "161", "word": "clock", "translate": "reloj", "base": "reloj" },
+  { "id": "162", "word": "close", "translate": "cerrar", "base": "cerrar" },
+  { "id": "163", "word": "clothes", "translate": "ropa", "base": "ropa" },
+  { "id": "164", "word": "club", "translate": "club", "base": "club" },
+  { "id": "165", "word": "cold", "translate": "frío", "base": "frio" },
+  {
+    "id": "166",
+    "word": "college",
+    "translate": "universidad",
+    "base": "universidad"
+  },
+  { "id": "167", "word": "color", "translate": "color", "base": "color" },
+  { "id": "168", "word": "come", "translate": "ven", "base": "ven" },
+  {
+    "id": "169",
+    "word": "comment",
+    "translate": "comentario",
+    "base": "comentario"
+  },
+  { "id": "170", "word": "common", "translate": "común", "base": "comun" },
+  {
+    "id": "171",
+    "word": "communication",
+    "translate": "comunicación",
+    "base": "comunicacion"
+  },
+  {
+    "id": "172",
+    "word": "community",
+    "translate": "comunidad",
+    "base": "comunidad"
+  },
+  { "id": "173", "word": "company", "translate": "empresa", "base": "empresa" },
+  {
+    "id": "174",
+    "word": "compare",
+    "translate": "comparar",
+    "base": "comparar"
+  },
+  {
+    "id": "175",
+    "word": "competition",
+    "translate": "competencia",
+    "base": "competencia"
+  },
+  {
+    "id": "176",
+    "word": "complete",
+    "translate": "completar",
+    "base": "completar"
+  },
+  {
+    "id": "177",
+    "word": "completely",
+    "translate": "completamente",
+    "base": "completamente"
+  },
+  {
+    "id": "178",
+    "word": "computer",
+    "translate": "computadora",
+    "base": "computadora"
+  },
+  {
+    "id": "179",
+    "word": "concern",
+    "translate": "preocupación",
+    "base": "preocupacion"
+  },
+  {
+    "id": "180",
+    "word": "conclusion",
+    "translate": "conclusión",
+    "base": "conclusion"
+  },
+  {
+    "id": "181",
+    "word": "condition",
+    "translate": "condición",
+    "base": "condicion"
+  },
+  {
+    "id": "182",
+    "word": "consider",
+    "translate": "considerar",
+    "base": "considerar"
+  },
+  {
+    "id": "183",
+    "word": "contact",
+    "translate": "contacto",
+    "base": "contacto"
+  },
+  {
+    "id": "184",
+    "word": "contain",
+    "translate": "contiene",
+    "base": "contiene"
+  },
+  {
+    "id": "185",
+    "word": "continue",
+    "translate": "continuar",
+    "base": "continuar"
+  },
+  {
+    "id": "186",
+    "word": "contract",
+    "translate": "contrato",
+    "base": "contrato"
+  },
+  {
+    "id": "187",
+    "word": "control",
+    "translate": "controlar",
+    "base": "controlar"
+  },
+  {
+    "id": "188",
+    "word": "conversation",
+    "translate": "conversacion",
+    "base": "conversacion"
+  },
+  { "id": "189", "word": "cost", "translate": "costo", "base": "costo" },
+  { "id": "190", "word": "could", "translate": "podría", "base": "podria" },
+  { "id": "191", "word": "country", "translate": "país", "base": "pais" },
+  { "id": "192", "word": "couple", "translate": "pareja", "base": "pareja" },
+  { "id": "193", "word": "course", "translate": "curso", "base": "curso" },
+  { "id": "194", "word": "court", "translate": "corte", "base": "corte" },
+  { "id": "195", "word": "cover", "translate": "cubrir", "base": "cubrir" },
+  { "id": "196", "word": "create", "translate": "crear", "base": "crear" },
+  { "id": "197", "word": "credit", "translate": "crédito", "base": "credito" },
+  { "id": "198", "word": "cross", "translate": "cruzar", "base": "cruzar" },
+  { "id": "199", "word": "culture", "translate": "cultura", "base": "cultura" },
+  {
+    "id": "200",
+    "word": "current",
+    "translate": "corriente",
+    "base": "corriente"
+  },
+  {
+    "id": "201",
+    "word": "customer",
+    "translate": "cliente",
+    "base": "cliente"
+  },
+  { "id": "202", "word": "cut", "translate": "cortar", "base": "cortar" },
+  { "id": "203", "word": "daily", "translate": "diario", "base": "diario" },
+  { "id": "204", "word": "damage", "translate": "dañar", "base": "dañar" },
+  {
+    "id": "205",
+    "word": "dance",
+    "translate": "baile / danza",
+    "base": "baile / danza"
+  },
+  { "id": "206", "word": "dark", "translate": "oscuro", "base": "oscuro" },
+  { "id": "207", "word": "data", "translate": "datos", "base": "datos" },
+  { "id": "208", "word": "date", "translate": "fecha", "base": "fecha" },
+  { "id": "209", "word": "daughter", "translate": "hija", "base": "hija" },
+  { "id": "210", "word": "day", "translate": "día", "base": "dia" },
+  { "id": "211", "word": "dead", "translate": "muerto", "base": "muerto" },
+  { "id": "212", "word": "deal", "translate": "acuerdo", "base": "acuerdo" },
+  { "id": "213", "word": "death", "translate": "muerte", "base": "muerte" },
+  { "id": "214", "word": "debate", "translate": "debate", "base": "debate" },
+  { "id": "215", "word": "decide", "translate": "decidir", "base": "decidir" },
+  {
+    "id": "216",
+    "word": "decision",
+    "translate": "decisión",
+    "base": "decision"
+  },
+  { "id": "217", "word": "deep", "translate": "profundo", "base": "profundo" },
+  { "id": "218", "word": "define", "translate": "definir", "base": "definir" },
+  {
+    "id": "219",
+    "word": "degree",
+    "translate": "la licenciatura",
+    "base": "la licenciatura"
+  },
+  { "id": "220", "word": "demand", "translate": "demanda", "base": "demanda" },
+  {
+    "id": "221",
+    "word": "department",
+    "translate": "departamento",
+    "base": "departamento"
+  },
+  {
+    "id": "222",
+    "word": "depend",
+    "translate": "depender",
+    "base": "depender"
+  },
+  {
+    "id": "223",
+    "word": "describe",
+    "translate": "describir",
+    "base": "describir"
+  },
+  { "id": "224", "word": "design", "translate": "diseño", "base": "diseño" },
+  {
+    "id": "225",
+    "word": "despite",
+    "translate": "a pesar de",
+    "base": "a pesar de"
+  },
+  { "id": "226", "word": "detail", "translate": "detalle", "base": "detalle" },
+  {
+    "id": "227",
+    "word": "determine",
+    "translate": "determinar",
+    "base": "determinar"
+  },
+  {
+    "id": "228",
+    "word": "develop",
+    "translate": "desarrollar",
+    "base": "desarrollar"
+  },
+  {
+    "id": "229",
+    "word": "development",
+    "translate": "desarrollo",
+    "base": "desarrollo"
+  },
+  { "id": "230", "word": "die", "translate": "morir", "base": "morir" },
+  {
+    "id": "231",
+    "word": "difference",
+    "translate": "diferencia",
+    "base": "diferencia"
+  },
+  {
+    "id": "232",
+    "word": "different",
+    "translate": "diferente",
+    "base": "diferente"
+  },
+  {
+    "id": "233",
+    "word": "difficult",
+    "translate": "difícil",
+    "base": "dificil"
+  },
+  {
+    "id": "234",
+    "word": "difficulty",
+    "translate": "dificultad",
+    "base": "dificultad"
+  },
+  { "id": "235", "word": "direct", "translate": "directo", "base": "directo" },
+  {
+    "id": "236",
+    "word": "direction",
+    "translate": "dirección",
+    "base": "direccion"
+  },
+  {
+    "id": "237",
+    "word": "director",
+    "translate": "director",
+    "base": "director"
+  },
+  {
+    "id": "238",
+    "word": "discover",
+    "translate": "descubrir",
+    "base": "descubrir"
+  },
+  {
+    "id": "239",
+    "word": "discuss",
+    "translate": "discutir",
+    "base": "discutir"
+  },
+  {
+    "id": "240",
+    "word": "discussion",
+    "translate": "discusión",
+    "base": "discusion"
+  },
+  {
+    "id": "241",
+    "word": "disease",
+    "translate": "enfermedad",
+    "base": "enfermedad"
+  },
+  { "id": "242", "word": "do", "translate": "hacer", "base": "hacer" },
+  { "id": "243", "word": "doctor", "translate": "doctor", "base": "doctor" },
+  {
+    "id": "244",
+    "word": "document",
+    "translate": "documento",
+    "base": "documento"
+  },
+  { "id": "245", "word": "dog", "translate": "perro", "base": "perro" },
+  { "id": "246", "word": "dollar", "translate": "dólar", "base": "dolar" },
+  { "id": "247", "word": "door", "translate": "puerta", "base": "puerta" },
+  { "id": "248", "word": "doubt", "translate": "duda", "base": "duda" },
+  { "id": "249", "word": "down", "translate": "abajo", "base": "abajo" },
+  { "id": "250", "word": "draw", "translate": "dibujar", "base": "dibujar" },
+  { "id": "251", "word": "dream", "translate": "sueño", "base": "sueño" },
+  { "id": "252", "word": "dress", "translate": "vestido", "base": "vestido" },
+  { "id": "253", "word": "drink", "translate": "beber", "base": "beber" },
+  { "id": "254", "word": "drive", "translate": "conducir", "base": "conducir" },
+  { "id": "255", "word": "drop", "translate": "soltar", "base": "soltar" },
+  { "id": "256", "word": "drug", "translate": "fármaco", "base": "farmaco" },
+  { "id": "257", "word": "due", "translate": "debido", "base": "debido" },
+  { "id": "258", "word": "during", "translate": "durante", "base": "durante" },
+  { "id": "259", "word": "each", "translate": "cada", "base": "cada" },
+  { "id": "260", "word": "early", "translate": "temprano", "base": "temprano" },
+  { "id": "261", "word": "earn", "translate": "ganar", "base": "ganar" },
+  {
+    "id": "262",
+    "word": "easily",
+    "translate": "fácilmente",
+    "base": "facilmente"
+  },
+  { "id": "263", "word": "easy", "translate": "fácil", "base": "facil" },
+  { "id": "264", "word": "eat", "translate": "comer", "base": "comer" },
+  {
+    "id": "265",
+    "word": "economic",
+    "translate": "económico",
+    "base": "economico"
+  },
+  {
+    "id": "266",
+    "word": "economy",
+    "translate": "economía",
+    "base": "economia"
+  },
+  {
+    "id": "267",
+    "word": "education",
+    "translate": "educación",
+    "base": "educacion"
+  },
+  { "id": "268", "word": "effect", "translate": "efecto", "base": "efecto" },
+  {
+    "id": "269",
+    "word": "effort",
+    "translate": "esfuerzo",
+    "base": "esfuerzo"
+  },
+  { "id": "270", "word": "either", "translate": "ya sea", "base": "ya sea" },
+  {
+    "id": "271",
+    "word": "election",
+    "translate": "elección",
+    "base": "eleccion"
+  },
+  { "id": "272", "word": "else", "translate": "más", "base": "mas" },
+  {
+    "id": "273",
+    "word": "employee",
+    "translate": "empleado",
+    "base": "empleado"
+  },
+  { "id": "274", "word": "encourage", "translate": "animar", "base": "animar" },
+  { "id": "275", "word": "end", "translate": "fin", "base": "fin" },
+  { "id": "276", "word": "energy", "translate": "energía", "base": "energia" },
+  {
+    "id": "277",
+    "word": "enjoy",
+    "translate": "disfrutar",
+    "base": "disfrutar"
+  },
+  {
+    "id": "278",
+    "word": "enough",
+    "translate": "suficiente",
+    "base": "suficiente"
+  },
+  { "id": "279", "word": "enter", "translate": "entrar", "base": "entrar" },
+  {
+    "id": "280",
+    "word": "environment",
+    "translate": "ambiente",
+    "base": "ambiente"
+  },
+  {
+    "id": "281",
+    "word": "especially",
+    "translate": "especialmente",
+    "base": "especialmente"
+  },
+  {
+    "id": "282",
+    "word": "establish",
+    "translate": "establecer",
+    "base": "establecer"
+  },
+  {
+    "id": "283",
+    "word": "estimate",
+    "translate": "estimado",
+    "base": "estimado"
+  },
+  { "id": "284", "word": "even", "translate": "incluso", "base": "incluso" },
+  { "id": "285", "word": "evening", "translate": "noche", "base": "noche" },
+  { "id": "286", "word": "event", "translate": "evento", "base": "evento" },
+  { "id": "287", "word": "ever", "translate": "siempre", "base": "siempre" },
+  { "id": "288", "word": "every", "translate": "cada", "base": "cada" },
+  { "id": "289", "word": "everybody", "translate": "todos", "base": "todos" },
+  {
+    "id": "290",
+    "word": "everyone",
+    "translate": "todo el mundo",
+    "base": "todo el mundo"
+  },
+  { "id": "291", "word": "everything", "translate": "todo", "base": "todo" },
+  {
+    "id": "292",
+    "word": "evidence",
+    "translate": "evidencia",
+    "base": "evidencia"
+  },
+  {
+    "id": "293",
+    "word": "exactly",
+    "translate": "exactamente",
+    "base": "exactamente"
+  },
+  { "id": "294", "word": "example", "translate": "ejemplo", "base": "ejemplo" },
+  { "id": "295", "word": "except", "translate": "excepto", "base": "excepto" },
+  {
+    "id": "296",
+    "word": "exercise",
+    "translate": "ejercicio",
+    "base": "ejercicio"
+  },
+  { "id": "297", "word": "exist", "translate": "existe", "base": "existe" },
+  { "id": "298", "word": "expect", "translate": "esperar", "base": "esperar" },
+  {
+    "id": "299",
+    "word": "experience",
+    "translate": "experiencia",
+    "base": "experiencia"
+  },
+  {
+    "id": "300",
+    "word": "explain",
+    "translate": "explique",
+    "base": "explique"
+  },
+  {
+    "id": "301",
+    "word": "express",
+    "translate": "expresar",
+    "base": "expresar"
+  },
+  { "id": "302", "word": "extend", "translate": "ampliar", "base": "ampliar" },
+  { "id": "303", "word": "eye", "translate": "ojo", "base": "ojo" },
+  { "id": "304", "word": "face", "translate": "cara", "base": "cara" },
+  {
+    "id": "305",
+    "word": "facility",
+    "translate": "instalaciones",
+    "base": "instalaciones"
+  },
+  { "id": "306", "word": "fact", "translate": "hecho", "base": "hecho" },
+  { "id": "307", "word": "factor", "translate": "factor", "base": "factor" },
+  { "id": "308", "word": "fail", "translate": "fallar", "base": "fallar" },
+  { "id": "309", "word": "fall", "translate": "otoño", "base": "otoño" },
+  { "id": "310", "word": "family", "translate": "familia", "base": "familia" },
+  { "id": "311", "word": "far", "translate": "lejos", "base": "lejos" },
+  { "id": "312", "word": "fast", "translate": "rápido", "base": "rapido" },
+  { "id": "313", "word": "father", "translate": "padre", "base": "padre" },
+  {
+    "id": "314",
+    "word": "favorite",
+    "translate": "favorito",
+    "base": "favorito"
+  },
+  { "id": "315", "word": "fear", "translate": "temor", "base": "temor" },
+  {
+    "id": "316",
+    "word": "feature",
+    "translate": "característica",
+    "base": "caracteristica"
+  },
+  {
+    "id": "317",
+    "word": "feel",
+    "translate": "sensación",
+    "base": "sensacion"
+  },
+  { "id": "318", "word": "female", "translate": "hembra", "base": "hembra" },
+  { "id": "319", "word": "few", "translate": "pocos", "base": "pocos" },
+  { "id": "320", "word": "field", "translate": "campo", "base": "campo" },
+  { "id": "321", "word": "fight", "translate": "lucha", "base": "lucha" },
+  { "id": "322", "word": "figure", "translate": "figura", "base": "figura" },
+  {
+    "id": "323",
+    "word": "file",
+    "translate": "expediente",
+    "base": "expediente"
+  },
+  { "id": "324", "word": "fill", "translate": "llenar", "base": "llenar" },
+  { "id": "325", "word": "film", "translate": "película", "base": "pelicula" },
+  { "id": "326", "word": "final", "translate": "final", "base": "final" },
+  {
+    "id": "327",
+    "word": "finally",
+    "translate": "finalmente",
+    "base": "finalmente"
+  },
+  {
+    "id": "328",
+    "word": "financial",
+    "translate": "financiero",
+    "base": "financiero"
+  },
+  {
+    "id": "329",
+    "word": "find",
+    "translate": "encontrar",
+    "base": "encontrar"
+  },
+  { "id": "330", "word": "fine", "translate": "multa", "base": "multa" },
+  {
+    "id": "331",
+    "word": "finish",
+    "translate": "terminar",
+    "base": "terminar"
+  },
+  { "id": "332", "word": "fire", "translate": "fuego", "base": "fuego" },
+  {
+    "id": "333",
+    "word": "firm",
+    "translate": "sólido, firme",
+    "base": "solido, firme"
+  },
+  { "id": "334", "word": "first", "translate": "primero", "base": "primero" },
+  { "id": "335", "word": "fish", "translate": "pez", "base": "pez" },
+  { "id": "336", "word": "fit", "translate": "ajuste", "base": "ajuste" },
+  { "id": "337", "word": "fix", "translate": "fijar", "base": "fijar" },
+  { "id": "338", "word": "floor", "translate": "piso", "base": "piso" },
+  { "id": "339", "word": "fly", "translate": "volar", "base": "volar" },
+  { "id": "340", "word": "focus", "translate": "atención", "base": "atencion" },
+  { "id": "341", "word": "follow", "translate": "seguir", "base": "seguir" },
+  { "id": "342", "word": "food", "translate": "comida", "base": "comida" },
+  { "id": "343", "word": "foot", "translate": "pie", "base": "pie" },
+  { "id": "344", "word": "for", "translate": "para", "base": "para" },
+  { "id": "345", "word": "force", "translate": "fuerza", "base": "fuerza" },
+  {
+    "id": "346",
+    "word": "foreign",
+    "translate": "extranjero",
+    "base": "extranjero"
+  },
+  { "id": "347", "word": "forget", "translate": "olvidar", "base": "olvidar" },
+  { "id": "348", "word": "form", "translate": "formar", "base": "formar" },
+  { "id": "349", "word": "former", "translate": "ex", "base": "ex" },
+  {
+    "id": "350",
+    "word": "forward",
+    "translate": "adelante",
+    "base": "adelante"
+  },
+  { "id": "351", "word": "free", "translate": "gratis", "base": "gratis" },
+  { "id": "352", "word": "friend", "translate": "amigo", "base": "amigo" },
+  { "id": "353", "word": "from", "translate": "desde", "base": "desde" },
+  { "id": "354", "word": "front", "translate": "frente", "base": "frente" },
+  { "id": "355", "word": "full", "translate": "completo", "base": "completo" },
+  { "id": "356", "word": "fun", "translate": "divertido", "base": "divertido" },
+  {
+    "id": "357",
+    "word": "function",
+    "translate": "función",
+    "base": "funcion"
+  },
+  {
+    "id": "358",
+    "word": "fund",
+    "translate": "financiar",
+    "base": "financiar"
+  },
+  {
+    "id": "359",
+    "word": "further",
+    "translate": "promover",
+    "base": "promover"
+  },
+  { "id": "360", "word": "future", "translate": "futuro", "base": "futuro" },
+  { "id": "361", "word": "gain", "translate": "ganancia", "base": "ganancia" },
+  { "id": "362", "word": "game", "translate": "juego", "base": "juego" },
+  { "id": "363", "word": "garden", "translate": "jardín", "base": "jardin" },
+  { "id": "364", "word": "general", "translate": "general", "base": "general" },
+  {
+    "id": "365",
+    "word": "generally",
+    "translate": "generalmente",
+    "base": "generalmente"
+  },
+  {
+    "id": "366",
+    "word": "generation",
+    "translate": "generacion",
+    "base": "generacion"
+  },
+  { "id": "367", "word": "get", "translate": "obtener", "base": "obtener" },
+  { "id": "368", "word": "girl", "translate": "niña", "base": "niña" },
+  { "id": "369", "word": "give", "translate": "dar", "base": "dar" },
+  { "id": "370", "word": "go", "translate": "ir", "base": "ir" },
+  { "id": "371", "word": "goal", "translate": "gol", "base": "gol" },
+  { "id": "372", "word": "good", "translate": "bueno", "base": "bueno" },
+  {
+    "id": "373",
+    "word": "government",
+    "translate": "gobierno",
+    "base": "gobierno"
+  },
+  { "id": "374", "word": "great", "translate": "genial", "base": "genial" },
+  { "id": "375", "word": "green", "translate": "verde", "base": "verde" },
+  { "id": "376", "word": "ground", "translate": "suelo", "base": "suelo" },
+  { "id": "377", "word": "group", "translate": "grupo", "base": "grupo" },
+  { "id": "378", "word": "grow", "translate": "crecer", "base": "crecer" },
+  {
+    "id": "379",
+    "word": "growth",
+    "translate": "crecimiento",
+    "base": "crecimiento"
+  },
+  { "id": "380", "word": "guess", "translate": "adivinar", "base": "adivinar" },
+  { "id": "381", "word": "guy", "translate": "chico", "base": "chico" },
+  { "id": "382", "word": "hair", "translate": "pelo", "base": "pelo" },
+  { "id": "383", "word": "half", "translate": "mitad", "base": "mitad" },
+  { "id": "384", "word": "hand", "translate": "mano", "base": "mano" },
+  { "id": "385", "word": "happen", "translate": "ocurrir", "base": "ocurrir" },
+  { "id": "386", "word": "happy", "translate": "feliz", "base": "feliz" },
+  { "id": "387", "word": "hard", "translate": "difícil", "base": "dificil" },
+  { "id": "388", "word": "have", "translate": "tener", "base": "tener" },
+  { "id": "389", "word": "he", "translate": "él", "base": "el" },
+  { "id": "390", "word": "head", "translate": "cabeza", "base": "cabeza" },
+  { "id": "391", "word": "health", "translate": "salud", "base": "salud" },
+  { "id": "392", "word": "hear", "translate": "oír", "base": "oir" },
+  { "id": "393", "word": "heart", "translate": "corazón", "base": "corazon" },
+  { "id": "394", "word": "help", "translate": "ayuda", "base": "ayuda" },
+  { "id": "395", "word": "here", "translate": "aquí", "base": "aqui" },
+  {
+    "id": "396",
+    "word": "herself",
+    "translate": "ella misma",
+    "base": "ella misma"
+  },
+  { "id": "397", "word": "high", "translate": "alto", "base": "alto" },
+  {
+    "id": "398",
+    "word": "himself",
+    "translate": "él mismo",
+    "base": "el mismo"
+  },
+  {
+    "id": "399",
+    "word": "history",
+    "translate": "historia",
+    "base": "historia"
+  },
+  { "id": "400", "word": "hit", "translate": "golpear", "base": "golpear" },
+  { "id": "401", "word": "hold", "translate": "sostener", "base": "sostener" },
+  {
+    "id": "402",
+    "word": "holiday",
+    "translate": "vacaciones",
+    "base": "vacaciones"
+  },
+  { "id": "403", "word": "home", "translate": "casa", "base": "casa" },
+  {
+    "id": "404",
+    "word": "hope",
+    "translate": "esperanza",
+    "base": "esperanza"
+  },
+  {
+    "id": "405",
+    "word": "hospital",
+    "translate": "hospital",
+    "base": "hospital"
+  },
+  { "id": "406", "word": "hot", "translate": "caliente", "base": "caliente" },
+  { "id": "407", "word": "hotel", "translate": "hotel", "base": "hotel" },
+  { "id": "408", "word": "hour", "translate": "hora", "base": "hora" },
+  { "id": "409", "word": "house", "translate": "casa", "base": "casa" },
+  { "id": "410", "word": "how", "translate": "cómo", "base": "como" },
+  {
+    "id": "411",
+    "word": "however",
+    "translate": "sin embargo",
+    "base": "sin embargo"
+  },
+  { "id": "412", "word": "huge", "translate": "enorme", "base": "enorme" },
+  { "id": "413", "word": "human", "translate": "humano", "base": "humano" },
+  { "id": "414", "word": "husband", "translate": "marido", "base": "marido" },
+  { "id": "415", "word": "i", "translate": "yo", "base": "yo" },
+  { "id": "416", "word": "idea", "translate": "idea", "base": "idea" },
+  {
+    "id": "417",
+    "word": "identify",
+    "translate": "identificar",
+    "base": "identificar"
+  },
+  { "id": "418", "word": "if", "translate": "si", "base": "si" },
+  { "id": "419", "word": "image", "translate": "imagen", "base": "imagen" },
+  { "id": "420", "word": "imagine", "translate": "imagina", "base": "imagina" },
+  {
+    "id": "421",
+    "word": "immediately",
+    "translate": "inmediatamente",
+    "base": "inmediatamente"
+  },
+  {
+    "id": "422",
+    "word": "important",
+    "translate": "importante",
+    "base": "importante"
+  },
+  { "id": "423", "word": "improve", "translate": "mejorar", "base": "mejorar" },
+  { "id": "424", "word": "in", "translate": "en", "base": "en" },
+  { "id": "425", "word": "include", "translate": "incluir", "base": "incluir" },
+  {
+    "id": "426",
+    "word": "income",
+    "translate": "ingresos",
+    "base": "ingresos"
+  },
+  {
+    "id": "427",
+    "word": "increase",
+    "translate": "incrementar",
+    "base": "incrementar"
+  },
+  {
+    "id": "428",
+    "word": "indeed",
+    "translate": "en efecto",
+    "base": "en efecto"
+  },
+  {
+    "id": "429",
+    "word": "indicate",
+    "translate": "indicar",
+    "base": "indicar"
+  },
+  {
+    "id": "430",
+    "word": "individual",
+    "translate": "individual",
+    "base": "individual"
+  },
+  {
+    "id": "431",
+    "word": "industry",
+    "translate": "industria",
+    "base": "industria"
+  },
+  {
+    "id": "432",
+    "word": "influence",
+    "translate": "influencia",
+    "base": "influencia"
+  },
+  {
+    "id": "433",
+    "word": "information",
+    "translate": "información",
+    "base": "informacion"
+  },
+  { "id": "434", "word": "inside", "translate": "dentro", "base": "dentro" },
+  {
+    "id": "435",
+    "word": "instance",
+    "translate": "ejemplo",
+    "base": "ejemplo"
+  },
+  {
+    "id": "436",
+    "word": "instead",
+    "translate": "en lugar",
+    "base": "en lugar"
+  },
+  {
+    "id": "437",
+    "word": "interest",
+    "translate": "interesar",
+    "base": "interesar"
+  },
+  {
+    "id": "438",
+    "word": "international",
+    "translate": "internacional",
+    "base": "internacional"
+  },
+  {
+    "id": "439",
+    "word": "interview",
+    "translate": "entrevista",
+    "base": "entrevista"
+  },
+  { "id": "440", "word": "into", "translate": "dentro", "base": "dentro" },
+  {
+    "id": "441",
+    "word": "introduce",
+    "translate": "introducir",
+    "base": "introducir"
+  },
+  {
+    "id": "442",
+    "word": "investment",
+    "translate": "inversión",
+    "base": "inversion"
+  },
+  {
+    "id": "443",
+    "word": "involve",
+    "translate": "implicar",
+    "base": "implicar"
+  },
+  { "id": "444", "word": "issue", "translate": "problema", "base": "problema" },
+  { "id": "445", "word": "it", "translate": "eso", "base": "eso" },
+  { "id": "446", "word": "item", "translate": "artículo", "base": "articulo" },
+  {
+    "id": "447",
+    "word": "itself",
+    "translate": "sí mismo",
+    "base": "si mismo"
+  },
+  { "id": "448", "word": "job", "translate": "trabajo", "base": "trabajo" },
+  { "id": "449", "word": "join", "translate": "unirse", "base": "unirse" },
+  { "id": "450", "word": "judge", "translate": "juez", "base": "juez" },
+  { "id": "451", "word": "just", "translate": "sólo", "base": "solo" },
+  { "id": "452", "word": "keep", "translate": "mantener", "base": "mantener" },
+  { "id": "453", "word": "key", "translate": "llave", "base": "llave" },
+  { "id": "454", "word": "kid", "translate": "niño", "base": "niño" },
+  { "id": "455", "word": "kill", "translate": "matar", "base": "matar" },
+  { "id": "456", "word": "kind", "translate": "tipo", "base": "tipo" },
+  { "id": "457", "word": "know", "translate": "saber", "base": "saber" },
+  {
+    "id": "458",
+    "word": "knowledge",
+    "translate": "conocimiento",
+    "base": "conocimiento"
+  },
+  { "id": "459", "word": "lack", "translate": "ausencia", "base": "ausencia" },
+  { "id": "460", "word": "land", "translate": "tierra", "base": "tierra" },
+  { "id": "461", "word": "language", "translate": "idioma", "base": "idioma" },
+  { "id": "462", "word": "large", "translate": "grande", "base": "grande" },
+  { "id": "463", "word": "last", "translate": "último", "base": "ultimo" },
+  { "id": "464", "word": "late", "translate": "tarde", "base": "tarde" },
+  { "id": "465", "word": "laugh", "translate": "risa", "base": "risa" },
+  { "id": "466", "word": "law", "translate": "ley", "base": "ley" },
+  { "id": "467", "word": "lead", "translate": "dirigir", "base": "dirigir" },
+  { "id": "468", "word": "leader", "translate": "líder", "base": "lider" },
+  { "id": "469", "word": "learn", "translate": "aprender", "base": "aprender" },
+  { "id": "470", "word": "least", "translate": "menos", "base": "menos" },
+  { "id": "471", "word": "leave", "translate": "salir", "base": "salir" },
+  { "id": "472", "word": "legal", "translate": "legal", "base": "legal" },
+  { "id": "473", "word": "less", "translate": "menos", "base": "menos" },
+  { "id": "474", "word": "let", "translate": "dejar", "base": "dejar" },
+  { "id": "475", "word": "letter", "translate": "carta", "base": "carta" },
+  { "id": "476", "word": "level", "translate": "nivel", "base": "nivel" },
+  { "id": "477", "word": "lie", "translate": "mentira", "base": "mentira" },
+  { "id": "478", "word": "life", "translate": "vida", "base": "vida" },
+  { "id": "479", "word": "light", "translate": "ligero", "base": "ligero" },
+  { "id": "480", "word": "like", "translate": "me gusta", "base": "me gusta" },
+  {
+    "id": "481",
+    "word": "likely",
+    "translate": "probable",
+    "base": "probable"
+  },
+  { "id": "482", "word": "limit", "translate": "límite", "base": "limite" },
+  { "id": "483", "word": "line", "translate": "línea", "base": "linea" },
+  { "id": "484", "word": "link", "translate": "enlazar", "base": "enlazar" },
+  { "id": "485", "word": "list", "translate": "lista", "base": "lista" },
+  { "id": "486", "word": "listen", "translate": "escucha", "base": "escucha" },
+  { "id": "487", "word": "little", "translate": "pequeño", "base": "pequeño" },
+  { "id": "488", "word": "live", "translate": "vivir", "base": "vivir" },
+  { "id": "489", "word": "local", "translate": "local", "base": "local" },
+  { "id": "490", "word": "long", "translate": "largo", "base": "largo" },
+  { "id": "491", "word": "look", "translate": "mira", "base": "mira" },
+  { "id": "492", "word": "lose", "translate": "perder", "base": "perder" },
+  { "id": "493", "word": "loss", "translate": "pérdida", "base": "perdida" },
+  { "id": "494", "word": "lot", "translate": "mucho", "base": "mucho" },
+  { "id": "495", "word": "love", "translate": "amor", "base": "amor" },
+  { "id": "496", "word": "low", "translate": "bajo", "base": "bajo" },
+  { "id": "497", "word": "machine", "translate": "máquina", "base": "maquina" },
+  {
+    "id": "498",
+    "word": "magazine",
+    "translate": "revista",
+    "base": "revista"
+  },
+  {
+    "id": "499",
+    "word": "main",
+    "translate": "principal",
+    "base": "principal"
+  },
+  {
+    "id": "500",
+    "word": "maintain",
+    "translate": "mantener",
+    "base": "mantener"
+  },
+  { "id": "501", "word": "major", "translate": "mayor", "base": "mayor" },
+  { "id": "502", "word": "make", "translate": "hacer", "base": "hacer" },
+  {
+    "id": "503",
+    "word": "male",
+    "translate": "masculino",
+    "base": "masculino"
+  },
+  { "id": "504", "word": "man", "translate": "hombre", "base": "hombre" },
+  {
+    "id": "505",
+    "word": "manage",
+    "translate": "gestionar",
+    "base": "gestionar"
+  },
+  {
+    "id": "506",
+    "word": "management",
+    "translate": "administración",
+    "base": "administracion"
+  },
+  { "id": "507", "word": "manager", "translate": "gerente", "base": "gerente" },
+  { "id": "508", "word": "many", "translate": "muchos", "base": "muchos" },
+  { "id": "509", "word": "mark", "translate": "marca", "base": "marca" },
+  { "id": "510", "word": "market", "translate": "mercado", "base": "mercado" },
+  { "id": "511", "word": "marry", "translate": "casar", "base": "casar" },
+  { "id": "512", "word": "match", "translate": "partido", "base": "partido" },
+  {
+    "id": "513",
+    "word": "material",
+    "translate": "material",
+    "base": "material"
+  },
+  {
+    "id": "514",
+    "word": "matter",
+    "translate": "importar",
+    "base": "importar"
+  },
+  { "id": "515", "word": "may", "translate": "mayo", "base": "mayo" },
+  { "id": "516", "word": "maybe", "translate": "tal vez", "base": "tal vez" },
+  { "id": "517", "word": "mean", "translate": "media", "base": "media" },
+  { "id": "518", "word": "measure", "translate": "medida", "base": "medida" },
+  { "id": "519", "word": "medium", "translate": "medio", "base": "medio" },
+  { "id": "520", "word": "meet", "translate": "reunirse", "base": "reunirse" },
+  { "id": "521", "word": "member", "translate": "miembro", "base": "miembro" },
+  { "id": "522", "word": "memory", "translate": "memoria", "base": "memoria" },
+  {
+    "id": "523",
+    "word": "mention",
+    "translate": "mencionar",
+    "base": "mencionar"
+  },
+  { "id": "524", "word": "message", "translate": "mensaje", "base": "mensaje" },
+  { "id": "525", "word": "method", "translate": "método", "base": "metodo" },
+  { "id": "526", "word": "middle", "translate": "medio", "base": "medio" },
+  { "id": "527", "word": "might", "translate": "podría", "base": "podria" },
+  { "id": "528", "word": "mile", "translate": "milla", "base": "milla" },
+  {
+    "id": "529",
+    "word": "military",
+    "translate": "militar",
+    "base": "militar"
+  },
+  { "id": "530", "word": "mind", "translate": "mente", "base": "mente" },
+  { "id": "531", "word": "mine", "translate": "mía", "base": "mia" },
+  { "id": "532", "word": "minute", "translate": "minuto", "base": "minuto" },
+  { "id": "533", "word": "miss", "translate": "perder", "base": "perder" },
+  { "id": "534", "word": "model", "translate": "modelo", "base": "modelo" },
+  { "id": "535", "word": "modern", "translate": "moderno", "base": "moderno" },
+  { "id": "536", "word": "moment", "translate": "momento", "base": "momento" },
+  { "id": "537", "word": "money", "translate": "dinero", "base": "dinero" },
+  { "id": "538", "word": "month", "translate": "mes", "base": "mes" },
+  { "id": "539", "word": "more", "translate": "más", "base": "mas" },
+  { "id": "540", "word": "morning", "translate": "mañana", "base": "mañana" },
+  { "id": "541", "word": "most", "translate": "más", "base": "mas" },
+  { "id": "542", "word": "mother", "translate": "madre", "base": "madre" },
+  {
+    "id": "543",
+    "word": "move",
+    "translate": "movimiento",
+    "base": "movimiento"
+  },
+  {
+    "id": "544",
+    "word": "movement",
+    "translate": "movimiento",
+    "base": "movimiento"
+  },
+  { "id": "545", "word": "movie", "translate": "película", "base": "pelicula" },
+  { "id": "546", "word": "much", "translate": "mucho", "base": "mucho" },
+  { "id": "547", "word": "music", "translate": "música", "base": "musica" },
+  { "id": "548", "word": "must", "translate": "debe", "base": "debe" },
+  {
+    "id": "549",
+    "word": "myself",
+    "translate": "mí mismo",
+    "base": "mi mismo"
+  },
+  { "id": "550", "word": "name", "translate": "nombre", "base": "nombre" },
+  { "id": "551", "word": "nation", "translate": "nación", "base": "nacion" },
+  {
+    "id": "552",
+    "word": "national",
+    "translate": "nacional",
+    "base": "nacional"
+  },
+  { "id": "553", "word": "natural", "translate": "natural", "base": "natural" },
+  {
+    "id": "554",
+    "word": "nature",
+    "translate": "naturaleza",
+    "base": "naturaleza"
+  },
+  { "id": "555", "word": "near", "translate": "cerca", "base": "cerca" },
+  { "id": "556", "word": "nearly", "translate": "casi", "base": "casi" },
+  {
+    "id": "557",
+    "word": "necessary",
+    "translate": "necesario",
+    "base": "necesario"
+  },
+  {
+    "id": "558",
+    "word": "need",
+    "translate": "necesitar",
+    "base": "necesitar"
+  },
+  { "id": "559", "word": "network", "translate": "red", "base": "red" },
+  { "id": "560", "word": "never", "translate": "nunca", "base": "nunca" },
+  { "id": "561", "word": "new", "translate": "nuevo", "base": "nuevo" },
+  { "id": "562", "word": "news", "translate": "noticias", "base": "noticias" },
+  {
+    "id": "563",
+    "word": "newspaper",
+    "translate": "periódico",
+    "base": "periodico"
+  },
+  {
+    "id": "564",
+    "word": "next",
+    "translate": "siguiente",
+    "base": "siguiente"
+  },
+  {
+    "id": "565",
+    "word": "nice",
+    "translate": "agradable",
+    "base": "agradable"
+  },
+  { "id": "566", "word": "night", "translate": "noche", "base": "noche" },
+  { "id": "567", "word": "no", "translate": "no", "base": "no" },
+  { "id": "568", "word": "nor", "translate": "ni", "base": "ni" },
+  { "id": "569", "word": "normal", "translate": "normal", "base": "normal" },
+  { "id": "570", "word": "not", "translate": "no", "base": "no" },
+  { "id": "571", "word": "note", "translate": "nota", "base": "nota" },
+  { "id": "572", "word": "nothing", "translate": "nada", "base": "nada" },
+  {
+    "id": "573",
+    "word": "notice",
+    "translate": "darse cuenta",
+    "base": "darse cuenta"
+  },
+  { "id": "574", "word": "now", "translate": "ahora", "base": "ahora" },
+  { "id": "575", "word": "number", "translate": "número", "base": "numero" },
+  { "id": "576", "word": "object", "translate": "objeto", "base": "objeto" },
+  {
+    "id": "577",
+    "word": "obviously",
+    "translate": "obviamente",
+    "base": "obviamente"
+  },
+  { "id": "578", "word": "occur", "translate": "ocurrir", "base": "ocurrir" },
+  { "id": "579", "word": "of", "translate": "de", "base": "de" },
+  { "id": "580", "word": "off", "translate": "apagado", "base": "apagado" },
+  { "id": "581", "word": "offer", "translate": "oferta", "base": "oferta" },
+  { "id": "582", "word": "office", "translate": "oficina", "base": "oficina" },
+  { "id": "583", "word": "officer", "translate": "oficial", "base": "oficial" },
+  {
+    "id": "584",
+    "word": "official",
+    "translate": "oficial",
+    "base": "oficial"
+  },
+  { "id": "585", "word": "often", "translate": "a menudo", "base": "a menudo" },
+  { "id": "586", "word": "oil", "translate": "petróleo", "base": "petroleo" },
+  { "id": "587", "word": "okay", "translate": "bueno", "base": "bueno" },
+  { "id": "588", "word": "old", "translate": "antiguo", "base": "antiguo" },
+  { "id": "589", "word": "on", "translate": "en", "base": "en" },
+  { "id": "590", "word": "once", "translate": "una vez", "base": "una vez" },
+  { "id": "591", "word": "one", "translate": "uno", "base": "uno" },
+  {
+    "id": "592",
+    "word": "only",
+    "translate": "solamente",
+    "base": "solamente"
+  },
+  { "id": "593", "word": "open", "translate": "abierto", "base": "abierto" },
+  {
+    "id": "594",
+    "word": "operate",
+    "translate": "funcionar",
+    "base": "funcionar"
+  },
+  {
+    "id": "595",
+    "word": "operation",
+    "translate": "operación",
+    "base": "operacion"
+  },
+  { "id": "596", "word": "opinion", "translate": "opinión", "base": "opinion" },
+  {
+    "id": "597",
+    "word": "opportunity",
+    "translate": "oportunidad",
+    "base": "oportunidad"
+  },
+  { "id": "598", "word": "option", "translate": "opción", "base": "opcion" },
+  { "id": "599", "word": "or", "translate": "o", "base": "o" },
+  { "id": "600", "word": "order", "translate": "orden", "base": "orden" },
+  {
+    "id": "601",
+    "word": "organization",
+    "translate": "organización",
+    "base": "organizacion"
+  },
+  {
+    "id": "602",
+    "word": "organize",
+    "translate": "organizar",
+    "base": "organizar"
+  },
+  {
+    "id": "603",
+    "word": "original",
+    "translate": "original",
+    "base": "original"
+  },
+  { "id": "604", "word": "other", "translate": "otro", "base": "otro" },
+  { "id": "605", "word": "out", "translate": "afuera", "base": "afuera" },
+  { "id": "606", "word": "outside", "translate": "exterio", "base": "exterio" },
+  {
+    "id": "607",
+    "word": "over",
+    "translate": "terminado",
+    "base": "terminado"
+  },
+  { "id": "608", "word": "own", "translate": "propio", "base": "propio" },
+  { "id": "609", "word": "page", "translate": "página", "base": "pagina" },
+  { "id": "610", "word": "paint", "translate": "pintar", "base": "pintar" },
+  { "id": "611", "word": "paper", "translate": "papel", "base": "papel" },
+  { "id": "612", "word": "parent", "translate": "padre", "base": "padre" },
+  { "id": "613", "word": "park", "translate": "parque", "base": "parque" },
+  { "id": "614", "word": "part", "translate": "parte", "base": "parte" },
+  {
+    "id": "615",
+    "word": "particular",
+    "translate": "especial",
+    "base": "especial"
+  },
+  {
+    "id": "616",
+    "word": "particularly",
+    "translate": "particularmente",
+    "base": "particularmente"
+  },
+  { "id": "617", "word": "party", "translate": "partido", "base": "partido" },
+  { "id": "618", "word": "pass", "translate": "pasar", "base": "pasar" },
+  { "id": "619", "word": "past", "translate": "pasado", "base": "pasado" },
+  {
+    "id": "620",
+    "word": "patient",
+    "translate": "paciente",
+    "base": "paciente"
+  },
+  { "id": "621", "word": "pattern", "translate": "modelo", "base": "modelo" },
+  { "id": "622", "word": "pause", "translate": "pausa", "base": "pausa" },
+  { "id": "623", "word": "pay", "translate": "paga", "base": "paga" },
+  { "id": "624", "word": "people", "translate": "gente", "base": "gente" },
+  { "id": "625", "word": "per", "translate": "por", "base": "por" },
+  {
+    "id": "626",
+    "word": "percent",
+    "translate": "por ciento",
+    "base": "por ciento"
+  },
+  {
+    "id": "627",
+    "word": "perform",
+    "translate": "realizar",
+    "base": "realizar"
+  },
+  {
+    "id": "628",
+    "word": "performance",
+    "translate": "actuación",
+    "base": "actuacion"
+  },
+  { "id": "629", "word": "perhaps", "translate": "quizás", "base": "quizas" },
+  { "id": "630", "word": "period", "translate": "período", "base": "periodo" },
+  { "id": "631", "word": "person", "translate": "persona", "base": "persona" },
+  {
+    "id": "632",
+    "word": "personal",
+    "translate": "personal",
+    "base": "personal"
+  },
+  { "id": "633", "word": "phone", "translate": "teléfono", "base": "telefono" },
+  { "id": "634", "word": "pick", "translate": "recoger", "base": "recoger" },
+  { "id": "635", "word": "picture", "translate": "imagen", "base": "imagen" },
+  { "id": "636", "word": "piece", "translate": "trozo", "base": "trozo" },
+  { "id": "637", "word": "place", "translate": "lugar", "base": "lugar" },
+  { "id": "638", "word": "plan", "translate": "plan", "base": "plan" },
+  { "id": "639", "word": "plant", "translate": "planta", "base": "planta" },
+  { "id": "640", "word": "play", "translate": "jugar", "base": "jugar" },
+  { "id": "641", "word": "player", "translate": "jugador", "base": "jugador" },
+  {
+    "id": "642",
+    "word": "please",
+    "translate": "por favor",
+    "base": "por favor"
+  },
+  { "id": "643", "word": "point", "translate": "punto", "base": "punto" },
+  { "id": "644", "word": "police", "translate": "policía", "base": "policia" },
+  {
+    "id": "645",
+    "word": "policy",
+    "translate": "política",
+    "base": "politica"
+  },
+  {
+    "id": "646",
+    "word": "political",
+    "translate": "político",
+    "base": "politico"
+  },
+  { "id": "647", "word": "poor", "translate": "pobre", "base": "pobre" },
+  { "id": "648", "word": "popular", "translate": "popular", "base": "popular" },
+  {
+    "id": "649",
+    "word": "population",
+    "translate": "población",
+    "base": "poblacion"
+  },
+  {
+    "id": "650",
+    "word": "position",
+    "translate": "posición",
+    "base": "posicion"
+  },
+  {
+    "id": "651",
+    "word": "positive",
+    "translate": "positivo",
+    "base": "positivo"
+  },
+  {
+    "id": "652",
+    "word": "possibility",
+    "translate": "posibilidad",
+    "base": "posibilidad"
+  },
+  {
+    "id": "653",
+    "word": "possible",
+    "translate": "posible",
+    "base": "posible"
+  },
+  { "id": "654", "word": "post", "translate": "enviar", "base": "enviar" },
+  {
+    "id": "655",
+    "word": "potential",
+    "translate": "potencial",
+    "base": "potencial"
+  },
+  { "id": "656", "word": "pound", "translate": "libra", "base": "libra" },
+  { "id": "657", "word": "power", "translate": "poder", "base": "poder" },
+  {
+    "id": "658",
+    "word": "practice",
+    "translate": "práctica",
+    "base": "practica"
+  },
+  {
+    "id": "659",
+    "word": "prefer",
+    "translate": "preferir",
+    "base": "preferir"
+  },
+  {
+    "id": "660",
+    "word": "prepare",
+    "translate": "preparar",
+    "base": "preparar"
+  },
+  {
+    "id": "661",
+    "word": "present",
+    "translate": "presente",
+    "base": "presente"
+  },
+  {
+    "id": "662",
+    "word": "president",
+    "translate": "presidente",
+    "base": "presidente"
+  },
+  { "id": "663", "word": "press", "translate": "prensa", "base": "prensa" },
+  {
+    "id": "664",
+    "word": "pressure",
+    "translate": "presión",
+    "base": "presion"
+  },
+  { "id": "665", "word": "pretty", "translate": "bonita", "base": "bonita" },
+  {
+    "id": "666",
+    "word": "previous",
+    "translate": "anterior",
+    "base": "anterior"
+  },
+  { "id": "667", "word": "price", "translate": "precio", "base": "precio" },
+  { "id": "668", "word": "private", "translate": "privado", "base": "privado" },
+  {
+    "id": "669",
+    "word": "probably",
+    "translate": "probablemente",
+    "base": "probablemente"
+  },
+  {
+    "id": "670",
+    "word": "problem",
+    "translate": "problema",
+    "base": "problema"
+  },
+  { "id": "671", "word": "process", "translate": "proceso", "base": "proceso" },
+  { "id": "672", "word": "produce", "translate": "produce", "base": "produce" },
+  {
+    "id": "673",
+    "word": "product",
+    "translate": "producto",
+    "base": "producto"
+  },
+  {
+    "id": "674",
+    "word": "production",
+    "translate": "producción",
+    "base": "produccion"
+  },
+  {
+    "id": "675",
+    "word": "professional",
+    "translate": "profesional",
+    "base": "profesional"
+  },
+  { "id": "676", "word": "profit", "translate": "lucro", "base": "lucro" },
+  {
+    "id": "677",
+    "word": "program",
+    "translate": "programa",
+    "base": "programa"
+  },
+  {
+    "id": "678",
+    "word": "project",
+    "translate": "proyecto",
+    "base": "proyecto"
+  },
+  { "id": "679", "word": "promise", "translate": "promesa", "base": "promesa" },
+  {
+    "id": "680",
+    "word": "property",
+    "translate": "propiedad",
+    "base": "propiedad"
+  },
+  {
+    "id": "681",
+    "word": "proposal",
+    "translate": "propuesta",
+    "base": "propuesta"
+  },
+  {
+    "id": "682",
+    "word": "propose",
+    "translate": "proponer",
+    "base": "proponer"
+  },
+  {
+    "id": "683",
+    "word": "protect",
+    "translate": "proteger",
+    "base": "proteger"
+  },
+  { "id": "684", "word": "prove", "translate": "probar", "base": "probar" },
+  {
+    "id": "685",
+    "word": "provide",
+    "translate": "proporcionar",
+    "base": "proporcionar"
+  },
+  { "id": "686", "word": "public", "translate": "público", "base": "publico" },
+  { "id": "687", "word": "pull", "translate": "halar", "base": "halar" },
+  {
+    "id": "688",
+    "word": "purchase",
+    "translate": "comprar",
+    "base": "comprar"
+  },
+  {
+    "id": "689",
+    "word": "purpose",
+    "translate": "propósito",
+    "base": "proposito"
+  },
+  { "id": "690", "word": "push", "translate": "empujar", "base": "empujar" },
+  { "id": "691", "word": "put", "translate": "poner", "base": "poner" },
+  { "id": "692", "word": "quality", "translate": "calidad", "base": "calidad" },
+  {
+    "id": "693",
+    "word": "quarter",
+    "translate": "trimestre",
+    "base": "trimestre"
+  },
+  {
+    "id": "694",
+    "word": "question",
+    "translate": "pregunta",
+    "base": "pregunta"
+  },
+  {
+    "id": "695",
+    "word": "quickly",
+    "translate": "con rapidez",
+    "base": "con rapidez"
+  },
+  { "id": "696", "word": "quite", "translate": "bastante", "base": "bastante" },
+  { "id": "697", "word": "race", "translate": "carrera", "base": "carrera" },
+  { "id": "698", "word": "raise", "translate": "aumento", "base": "aumento" },
+  {
+    "id": "699",
+    "word": "range",
+    "translate": "distancia",
+    "base": "distancia"
+  },
+  { "id": "700", "word": "rate", "translate": "tarifa", "base": "tarifa" },
+  {
+    "id": "701",
+    "word": "rather",
+    "translate": "más bien",
+    "base": "mas bien"
+  },
+  { "id": "702", "word": "reach", "translate": "alcanzar", "base": "alcanzar" },
+  { "id": "703", "word": "read", "translate": "leer", "base": "leer" },
+  { "id": "704", "word": "ready", "translate": "listo", "base": "listo" },
+  { "id": "705", "word": "real", "translate": "real", "base": "real" },
+  {
+    "id": "706",
+    "word": "realize",
+    "translate": "darse cuenta de",
+    "base": "darse cuenta de"
+  },
+  {
+    "id": "707",
+    "word": "really",
+    "translate": "de verdad",
+    "base": "de verdad"
+  },
+  { "id": "708", "word": "reason", "translate": "razón", "base": "razon" },
+  { "id": "709", "word": "receive", "translate": "recibir", "base": "recibir" },
+  {
+    "id": "710",
+    "word": "recent",
+    "translate": "reciente",
+    "base": "reciente"
+  },
+  {
+    "id": "711",
+    "word": "recently",
+    "translate": "recientemente",
+    "base": "recientemente"
+  },
+  {
+    "id": "712",
+    "word": "recognize",
+    "translate": "reconocer",
+    "base": "reconocer"
+  },
+  { "id": "713", "word": "record", "translate": "grabar", "base": "grabar" },
+  { "id": "714", "word": "red", "translate": "rojo", "base": "rojo" },
+  { "id": "715", "word": "reduce", "translate": "reducir", "base": "reducir" },
+  { "id": "716", "word": "refer", "translate": "referir", "base": "referir" },
+  {
+    "id": "717",
+    "word": "reference",
+    "translate": "referencia",
+    "base": "referencia"
+  },
+  {
+    "id": "718",
+    "word": "reflect",
+    "translate": "reflejar",
+    "base": "reflejar"
+  },
+  {
+    "id": "719",
+    "word": "regard",
+    "translate": "considerar",
+    "base": "considerar"
+  },
+  { "id": "720", "word": "region", "translate": "región", "base": "region" },
+  {
+    "id": "721",
+    "word": "relate",
+    "translate": "relacionar",
+    "base": "relacionar"
+  },
+  {
+    "id": "722",
+    "word": "relation",
+    "translate": "relación",
+    "base": "relacion"
+  },
+  {
+    "id": "723",
+    "word": "relationship",
+    "translate": "relación",
+    "base": "relacion"
+  },
+  {
+    "id": "724",
+    "word": "release",
+    "translate": "lanzamiento",
+    "base": "lanzamiento"
+  },
+  {
+    "id": "725",
+    "word": "remain",
+    "translate": "permanecer",
+    "base": "permanecer"
+  },
+  {
+    "id": "726",
+    "word": "remember",
+    "translate": "recuerda",
+    "base": "recuerda"
+  },
+  {
+    "id": "727",
+    "word": "replace",
+    "translate": "reemplazar",
+    "base": "reemplazar"
+  },
+  { "id": "728", "word": "report", "translate": "informe", "base": "informe" },
+  {
+    "id": "729",
+    "word": "represent",
+    "translate": "representar",
+    "base": "representar"
+  },
+  { "id": "730", "word": "require", "translate": "exigir", "base": "exigir" },
+  {
+    "id": "731",
+    "word": "research",
+    "translate": "investigación",
+    "base": "investigacion"
+  },
+  {
+    "id": "732",
+    "word": "resource",
+    "translate": "recurso",
+    "base": "recurso"
+  },
+  {
+    "id": "733",
+    "word": "respect",
+    "translate": "el respeto",
+    "base": "el respeto"
+  },
+  {
+    "id": "734",
+    "word": "response",
+    "translate": "respuesta",
+    "base": "respuesta"
+  },
+  {
+    "id": "735",
+    "word": "responsibility",
+    "translate": "responsabilidad",
+    "base": "responsabilidad"
+  },
+  { "id": "736", "word": "rest", "translate": "descanso", "base": "descanso" },
+  {
+    "id": "737",
+    "word": "restaurant",
+    "translate": "restaurante",
+    "base": "restaurante"
+  },
+  {
+    "id": "738",
+    "word": "result",
+    "translate": "resultado",
+    "base": "resultado"
+  },
+  { "id": "739", "word": "return", "translate": "regreso", "base": "regreso" },
+  {
+    "id": "740",
+    "word": "review",
+    "translate": "revisión",
+    "base": "revision"
+  },
+  { "id": "741", "word": "right", "translate": "correcto", "base": "correcto" },
+  { "id": "742", "word": "ring", "translate": "anillo", "base": "anillo" },
+  { "id": "743", "word": "rise", "translate": "subir", "base": "subir" },
+  { "id": "744", "word": "risk", "translate": "riesgo", "base": "riesgo" },
+  {
+    "id": "745",
+    "word": "road",
+    "translate": "la carretera",
+    "base": "la carretera"
+  },
+  { "id": "746", "word": "rock", "translate": "rock", "base": "rock" },
+  { "id": "747", "word": "role", "translate": "papel", "base": "papel" },
+  {
+    "id": "748",
+    "word": "room",
+    "translate": "habitación",
+    "base": "habitacion"
+  },
+  { "id": "749", "word": "round", "translate": "redondo", "base": "redondo" },
+  { "id": "750", "word": "rule", "translate": "regla", "base": "regla" },
+  { "id": "751", "word": "run", "translate": "correr", "base": "correr" },
+  { "id": "752", "word": "sale", "translate": "venta", "base": "venta" },
+  { "id": "753", "word": "same", "translate": "mismo", "base": "mismo" },
+  { "id": "754", "word": "save", "translate": "salvar", "base": "salvar" },
+  { "id": "755", "word": "say", "translate": "decir", "base": "decir" },
+  { "id": "756", "word": "school", "translate": "colegio", "base": "colegio" },
+  { "id": "757", "word": "science", "translate": "ciencia", "base": "ciencia" },
+  {
+    "id": "758",
+    "word": "score",
+    "translate": "puntuación",
+    "base": "puntuacion"
+  },
+  {
+    "id": "759",
+    "word": "screen",
+    "translate": "pantalla",
+    "base": "pantalla"
+  },
+  { "id": "760", "word": "sea", "translate": "mar", "base": "mar" },
+  { "id": "761", "word": "search", "translate": "buscar", "base": "buscar" },
+  {
+    "id": "762",
+    "word": "season",
+    "translate": "temporada",
+    "base": "temporada"
+  },
+  { "id": "763", "word": "seat", "translate": "asiento", "base": "asiento" },
+  { "id": "764", "word": "second", "translate": "segundo", "base": "segundo" },
+  { "id": "765", "word": "section", "translate": "sección", "base": "seccion" },
+  {
+    "id": "766",
+    "word": "security",
+    "translate": "seguridad",
+    "base": "seguridad"
+  },
+  { "id": "767", "word": "see", "translate": "ver", "base": "ver" },
+  { "id": "768", "word": "seek", "translate": "buscar", "base": "buscar" },
+  { "id": "769", "word": "seem", "translate": "parecer", "base": "parecer" },
+  { "id": "770", "word": "sell", "translate": "vender", "base": "vender" },
+  { "id": "771", "word": "send", "translate": "enviar", "base": "enviar" },
+  { "id": "772", "word": "sense", "translate": "sentido", "base": "sentido" },
+  {
+    "id": "773",
+    "word": "separate",
+    "translate": "separar",
+    "base": "separar"
+  },
+  { "id": "774", "word": "series", "translate": "serie", "base": "serie" },
+  { "id": "775", "word": "serious", "translate": "grave", "base": "grave" },
+  { "id": "776", "word": "serve", "translate": "servir", "base": "servir" },
+  {
+    "id": "777",
+    "word": "service",
+    "translate": "servicio",
+    "base": "servicio"
+  },
+  { "id": "778", "word": "set", "translate": "conjunto", "base": "conjunto" },
+  { "id": "779", "word": "several", "translate": "varios", "base": "varios" },
+  { "id": "780", "word": "shall", "translate": "deberá", "base": "debera" },
+  { "id": "781", "word": "shape", "translate": "forma", "base": "forma" },
+  {
+    "id": "782",
+    "word": "share",
+    "translate": "compartir",
+    "base": "compartir"
+  },
+  { "id": "783", "word": "she", "translate": "ella", "base": "ella" },
+  { "id": "784", "word": "shop", "translate": "tienda", "base": "tienda" },
+  { "id": "785", "word": "short", "translate": "corto", "base": "corto" },
+  { "id": "786", "word": "should", "translate": "debería", "base": "deberia" },
+  {
+    "id": "787",
+    "word": "show",
+    "translate": "espectáculo",
+    "base": "espectaculo"
+  },
+  { "id": "788", "word": "side", "translate": "lado", "base": "lado" },
+  { "id": "789", "word": "sign", "translate": "firmar", "base": "firmar" },
+  {
+    "id": "790",
+    "word": "significant",
+    "translate": "significativo",
+    "base": "significativo"
+  },
+  { "id": "791", "word": "similar", "translate": "similar", "base": "similar" },
+  {
+    "id": "792",
+    "word": "simple",
+    "translate": "sencillo",
+    "base": "sencillo"
+  },
+  {
+    "id": "793",
+    "word": "simply",
+    "translate": "simplemente",
+    "base": "simplemente"
+  },
+  { "id": "794", "word": "since", "translate": "ya que", "base": "ya que" },
+  { "id": "795", "word": "sing", "translate": "canta", "base": "canta" },
+  { "id": "796", "word": "single", "translate": "soltero", "base": "soltero" },
+  { "id": "797", "word": "sister", "translate": "hermana", "base": "hermana" },
+  { "id": "798", "word": "sit", "translate": "sentar", "base": "sentar" },
+  { "id": "799", "word": "site", "translate": "sitio", "base": "sitio" },
+  {
+    "id": "800",
+    "word": "situation",
+    "translate": "situación",
+    "base": "situacion"
+  },
+  { "id": "801", "word": "size", "translate": "tamaño", "base": "tamaño" },
+  {
+    "id": "802",
+    "word": "skill",
+    "translate": "habilidad",
+    "base": "habilidad"
+  },
+  { "id": "803", "word": "sleep", "translate": "dormir", "base": "dormir" },
+  { "id": "804", "word": "small", "translate": "pequeña", "base": "pequeña" },
+  { "id": "805", "word": "smile", "translate": "sonreír", "base": "sonreir" },
+  { "id": "806", "word": "so", "translate": "entonces", "base": "entonces" },
+  { "id": "807", "word": "social", "translate": "social", "base": "social" },
+  {
+    "id": "808",
+    "word": "society",
+    "translate": "sociedad",
+    "base": "sociedad"
+  },
+  {
+    "id": "809",
+    "word": "solution",
+    "translate": "solución",
+    "base": "solucion"
+  },
+  { "id": "810", "word": "some", "translate": "algunos", "base": "algunos" },
+  {
+    "id": "811",
+    "word": "somebody",
+    "translate": "alguien",
+    "base": "alguien"
+  },
+  { "id": "812", "word": "someone", "translate": "alguien", "base": "alguien" },
+  {
+    "id": "813",
+    "word": "something",
+    "translate": "alguna cosa",
+    "base": "alguna cosa"
+  },
+  {
+    "id": "814",
+    "word": "sometimes",
+    "translate": "algunas veces",
+    "base": "algunas veces"
+  },
+  { "id": "815", "word": "son", "translate": "hijo", "base": "hijo" },
+  { "id": "816", "word": "song", "translate": "canción", "base": "cancion" },
+  { "id": "817", "word": "soon", "translate": "pronto", "base": "pronto" },
+  {
+    "id": "818",
+    "word": "sorry",
+    "translate": "lo siento",
+    "base": "lo siento"
+  },
+  { "id": "819", "word": "sort", "translate": "ordenar", "base": "ordenar" },
+  { "id": "820", "word": "sound", "translate": "sonar", "base": "sonar" },
+  { "id": "821", "word": "source", "translate": "fuente", "base": "fuente" },
+  { "id": "822", "word": "space", "translate": "espacio", "base": "espacio" },
+  { "id": "823", "word": "speak", "translate": "hablar", "base": "hablar" },
+  {
+    "id": "824",
+    "word": "special",
+    "translate": "especial",
+    "base": "especial"
+  },
+  {
+    "id": "825",
+    "word": "specific",
+    "translate": "específico",
+    "base": "especifico"
+  },
+  { "id": "826", "word": "speech", "translate": "habla", "base": "habla" },
+  { "id": "827", "word": "spend", "translate": "gastar", "base": "gastar" },
+  { "id": "828", "word": "sport", "translate": "deporte", "base": "deporte" },
+  { "id": "829", "word": "staff", "translate": "personal", "base": "personal" },
+  {
+    "id": "830",
+    "word": "stage",
+    "translate": "escenario",
+    "base": "escenario"
+  },
+  { "id": "831", "word": "stand", "translate": "estar", "base": "estar" },
+  {
+    "id": "832",
+    "word": "standard",
+    "translate": "estándar",
+    "base": "estandar"
+  },
+  { "id": "833", "word": "star", "translate": "estrella", "base": "estrella" },
+  { "id": "834", "word": "start", "translate": "comienzo", "base": "comienzo" },
+  { "id": "835", "word": "state", "translate": "estado", "base": "estado" },
+  {
+    "id": "836",
+    "word": "statement",
+    "translate": "declaración",
+    "base": "declaracion"
+  },
+  {
+    "id": "837",
+    "word": "station",
+    "translate": "estación",
+    "base": "estacion"
+  },
+  {
+    "id": "838",
+    "word": "stay",
+    "translate": "permanecer",
+    "base": "permanecer"
+  },
+  { "id": "839", "word": "step", "translate": "paso", "base": "paso" },
+  { "id": "840", "word": "still", "translate": "todavía", "base": "todavia" },
+  { "id": "841", "word": "stock", "translate": "valores", "base": "valores" },
+  { "id": "842", "word": "stop", "translate": "detener", "base": "detener" },
+  {
+    "id": "843",
+    "word": "store",
+    "translate": "almacenar",
+    "base": "almacenar"
+  },
+  { "id": "844", "word": "story", "translate": "historia", "base": "historia" },
+  {
+    "id": "845",
+    "word": "strategy",
+    "translate": "estrategia",
+    "base": "estrategia"
+  },
+  { "id": "846", "word": "street", "translate": "calle", "base": "calle" },
+  { "id": "847", "word": "strike", "translate": "huelga", "base": "huelga" },
+  { "id": "848", "word": "strong", "translate": "fuerte", "base": "fuerte" },
+  {
+    "id": "849",
+    "word": "structure",
+    "translate": "estructura",
+    "base": "estructura"
+  },
+  {
+    "id": "850",
+    "word": "student",
+    "translate": "estudiante",
+    "base": "estudiante"
+  },
+  { "id": "851", "word": "study", "translate": "estudiar", "base": "estudiar" },
+  { "id": "852", "word": "stuff", "translate": "cosas", "base": "cosas" },
+  { "id": "853", "word": "style", "translate": "estilo", "base": "estilo" },
+  { "id": "854", "word": "subject", "translate": "tema", "base": "tema" },
+  { "id": "855", "word": "success", "translate": "éxito", "base": "exito" },
+  {
+    "id": "856",
+    "word": "successful",
+    "translate": "exitoso",
+    "base": "exitoso"
+  },
+  { "id": "857", "word": "such", "translate": "tal", "base": "tal" },
+  {
+    "id": "858",
+    "word": "suddenly",
+    "translate": "de repente",
+    "base": "de repente"
+  },
+  { "id": "859", "word": "suffer", "translate": "sufrir", "base": "sufrir" },
+  { "id": "860", "word": "suggest", "translate": "sugerir", "base": "sugerir" },
+  { "id": "861", "word": "summer", "translate": "verano", "base": "verano" },
+  {
+    "id": "862",
+    "word": "supply",
+    "translate": "suministro",
+    "base": "suministro"
+  },
+  { "id": "863", "word": "support", "translate": "apoyo", "base": "apoyo" },
+  { "id": "864", "word": "suppose", "translate": "suponer", "base": "suponer" },
+  {
+    "id": "865",
+    "word": "sure",
+    "translate": "por supuesto",
+    "base": "por supuesto"
+  },
+  {
+    "id": "866",
+    "word": "surprise",
+    "translate": "sorpresa",
+    "base": "sorpresa"
+  },
+  { "id": "867", "word": "system", "translate": "sistema", "base": "sistema" },
+  { "id": "868", "word": "table", "translate": "mesa", "base": "mesa" },
+  { "id": "869", "word": "take", "translate": "tomar", "base": "tomar" },
+  { "id": "870", "word": "talk", "translate": "hablar", "base": "hablar" },
+  {
+    "id": "871",
+    "word": "target",
+    "translate": "objetivo",
+    "base": "objetivo"
+  },
+  { "id": "872", "word": "task", "translate": "tarea", "base": "tarea" },
+  { "id": "873", "word": "tax", "translate": "impuesto", "base": "impuesto" },
+  { "id": "874", "word": "teach", "translate": "enseñar", "base": "enseñar" },
+  {
+    "id": "875",
+    "word": "teacher",
+    "translate": "profesor",
+    "base": "profesor"
+  },
+  { "id": "876", "word": "team", "translate": "equipo", "base": "equipo" },
+  {
+    "id": "877",
+    "word": "technology",
+    "translate": "tecnología",
+    "base": "tecnologia"
+  },
+  {
+    "id": "878",
+    "word": "television",
+    "translate": "televisión",
+    "base": "television"
+  },
+  { "id": "879", "word": "tell", "translate": "contar", "base": "contar" },
+  { "id": "880", "word": "tend", "translate": "tender", "base": "tender" },
+  { "id": "881", "word": "term", "translate": "término", "base": "termino" },
+  { "id": "882", "word": "test", "translate": "prueba", "base": "prueba" },
+  { "id": "883", "word": "than", "translate": "que", "base": "que" },
+  { "id": "884", "word": "thank", "translate": "gracias", "base": "gracias" },
+  { "id": "885", "word": "that", "translate": "ese, eso", "base": "ese, eso" },
+  {
+    "id": "886",
+    "word": "the",
+    "translate": "el, la, los, las",
+    "base": "el, la, los, las"
+  },
+  {
+    "id": "887",
+    "word": "themselves",
+    "translate": "sí mismos",
+    "base": "si mismos"
+  },
+  { "id": "888", "word": "then", "translate": "entonces", "base": "entonces" },
+  { "id": "889", "word": "theory", "translate": "teoría", "base": "teoria" },
+  { "id": "890", "word": "there", "translate": "ahí", "base": "ahi" },
+  {
+    "id": "891",
+    "word": "therefore",
+    "translate": "por lo tanto",
+    "base": "por lo tanto"
+  },
+  { "id": "892", "word": "they", "translate": "ellos", "base": "ellos" },
+  { "id": "893", "word": "thing", "translate": "cosa", "base": "cosa" },
+  { "id": "894", "word": "think", "translate": "pensar", "base": "pensar" },
+  { "id": "895", "word": "this", "translate": "esta", "base": "esta" },
+  { "id": "896", "word": "though", "translate": "aunque", "base": "aunque" },
+  {
+    "id": "897",
+    "word": "through",
+    "translate": "mediante",
+    "base": "mediante"
+  },
+  {
+    "id": "898",
+    "word": "throughout",
+    "translate": "en todo",
+    "base": "en todo"
+  },
+  { "id": "899", "word": "throw", "translate": "lanzar", "base": "lanzar" },
+  { "id": "900", "word": "thus", "translate": "así", "base": "asi" },
+  { "id": "901", "word": "time", "translate": "hora", "base": "hora" },
+  { "id": "902", "word": "to", "translate": "a", "base": "a" },
+  { "id": "903", "word": "today", "translate": "hoy", "base": "hoy" },
+  { "id": "904", "word": "together", "translate": "juntos", "base": "juntos" },
+  { "id": "905", "word": "tomorrow", "translate": "mañana", "base": "mañana" },
+  { "id": "906", "word": "too", "translate": "también", "base": "tambien" },
+  {
+    "id": "907",
+    "word": "top",
+    "translate": "parte superior",
+    "base": "parte superior"
+  },
+  { "id": "908", "word": "total", "translate": "total", "base": "total" },
+  { "id": "909", "word": "touch", "translate": "toque", "base": "toque" },
+  { "id": "910", "word": "toward", "translate": "hacia", "base": "hacia" },
+  { "id": "911", "word": "town", "translate": "pueblo", "base": "pueblo" },
+  { "id": "912", "word": "track", "translate": "pista", "base": "pista" },
+  { "id": "913", "word": "trade", "translate": "comercio", "base": "comercio" },
+  {
+    "id": "914",
+    "word": "traditional",
+    "translate": "tradicional ",
+    "base": "tradicional "
+  },
+  { "id": "915", "word": "train", "translate": "entrenar", "base": "entrenar" },
+  { "id": "916", "word": "travel", "translate": "viaje", "base": "viaje" },
+  { "id": "917", "word": "treat", "translate": "tratar", "base": "tratar" },
+  {
+    "id": "918",
+    "word": "treatment",
+    "translate": "tratamiento",
+    "base": "tratamiento"
+  },
+  { "id": "919", "word": "tree", "translate": "árbol", "base": "arbol" },
+  { "id": "920", "word": "trip", "translate": "viaje", "base": "viaje" },
+  {
+    "id": "921",
+    "word": "trouble",
+    "translate": "problema",
+    "base": "problema"
+  },
+  { "id": "922", "word": "true", "translate": "cierto", "base": "cierto" },
+  { "id": "923", "word": "try", "translate": "tratar", "base": "tratar" },
+  { "id": "924", "word": "turn", "translate": "giro", "base": "giro" },
+  { "id": "925", "word": "type", "translate": "tipo", "base": "tipo" },
+  {
+    "id": "926",
+    "word": "unclear",
+    "translate": "poco claro",
+    "base": "poco claro"
+  },
+  { "id": "927", "word": "under", "translate": "debajo", "base": "debajo" },
+  {
+    "id": "928",
+    "word": "understand",
+    "translate": "entender",
+    "base": "entender"
+  },
+  { "id": "929", "word": "unit", "translate": "unidad", "base": "unidad" },
+  {
+    "id": "930",
+    "word": "university",
+    "translate": "universidad",
+    "base": "universidad"
+  },
+  { "id": "931", "word": "until", "translate": "hasta", "base": "hasta" },
+  { "id": "932", "word": "up", "translate": "arriba", "base": "arriba" },
+  { "id": "933", "word": "upon", "translate": "sobre", "base": "sobre" },
+  { "id": "934", "word": "use", "translate": "utilizar", "base": "utilizar" },
+  { "id": "935", "word": "useful", "translate": "útil", "base": "util" },
+  {
+    "id": "936",
+    "word": "usually",
+    "translate": "generalmente",
+    "base": "generalmente"
+  },
+  { "id": "937", "word": "value", "translate": "valor", "base": "valor" },
+  {
+    "id": "938",
+    "word": "variety",
+    "translate": "variedad",
+    "base": "variedad"
+  },
+  { "id": "939", "word": "various", "translate": "varios", "base": "varios" },
+  { "id": "940", "word": "version", "translate": "versión", "base": "version" },
+  { "id": "941", "word": "very", "translate": "muy", "base": "muy" },
+  { "id": "942", "word": "view", "translate": "ver", "base": "ver" },
+  { "id": "943", "word": "village", "translate": "pueblo", "base": "pueblo" },
+  { "id": "944", "word": "visit", "translate": "visitar", "base": "visitar" },
+  { "id": "945", "word": "voice", "translate": "voz", "base": "voz" },
+  { "id": "946", "word": "vote", "translate": "votar", "base": "votar" },
+  { "id": "947", "word": "wait", "translate": "espere", "base": "espere" },
+  { "id": "948", "word": "walk", "translate": "caminar", "base": "caminar" },
+  { "id": "949", "word": "wall", "translate": "pared", "base": "pared" },
+  { "id": "950", "word": "want", "translate": "querer", "base": "querer" },
+  { "id": "951", "word": "war", "translate": "guerra", "base": "guerra" },
+  { "id": "952", "word": "watch", "translate": "reloj", "base": "reloj" },
+  { "id": "953", "word": "water", "translate": "agua", "base": "agua" },
+  { "id": "954", "word": "way", "translate": "camino", "base": "camino" },
+  { "id": "955", "word": "we", "translate": "nosotros", "base": "nosotros" },
+  { "id": "956", "word": "wear", "translate": "vestir", "base": "vestir" },
+  { "id": "957", "word": "week", "translate": "semana", "base": "semana" },
+  {
+    "id": "958",
+    "word": "weekend",
+    "translate": "fin de semana",
+    "base": "fin de semana"
+  },
+  { "id": "959", "word": "weight", "translate": "peso", "base": "peso" },
+  {
+    "id": "960",
+    "word": "welcome",
+    "translate": "bienvenido",
+    "base": "bienvenido"
+  },
+  { "id": "961", "word": "well", "translate": "bien", "base": "bien" },
+  { "id": "962", "word": "what", "translate": "qué", "base": "que" },
+  {
+    "id": "963",
+    "word": "whatever",
+    "translate": "lo que sea",
+    "base": "lo que sea"
+  },
+  { "id": "964", "word": "when", "translate": "cuando", "base": "cuando" },
+  { "id": "965", "word": "where", "translate": "dónde", "base": "donde" },
+  { "id": "966", "word": "whether", "translate": "ya sea", "base": "ya sea" },
+  { "id": "967", "word": "which", "translate": "cual", "base": "cual" },
+  { "id": "968", "word": "while", "translate": "mientras", "base": "mientras" },
+  { "id": "969", "word": "white", "translate": "blanco", "base": "blanco" },
+  { "id": "970", "word": "who", "translate": "quien", "base": "quien" },
+  { "id": "971", "word": "whole", "translate": "todo", "base": "todo" },
+  { "id": "972", "word": "why", "translate": "por qué", "base": "por que" },
+  { "id": "973", "word": "wide", "translate": "amplio", "base": "amplio" },
+  { "id": "974", "word": "wife", "translate": "esposa", "base": "esposa" },
+  { "id": "975", "word": "will", "translate": "será", "base": "sera" },
+  { "id": "976", "word": "win", "translate": "ganar", "base": "ganar" },
+  { "id": "977", "word": "window", "translate": "ventana", "base": "ventana" },
+  { "id": "978", "word": "wish", "translate": "deseo", "base": "deseo" },
+  { "id": "979", "word": "with", "translate": "con", "base": "con" },
+  { "id": "980", "word": "within", "translate": "dentro", "base": "dentro" },
+  { "id": "981", "word": "without", "translate": "sin", "base": "sin" },
+  { "id": "982", "word": "woman", "translate": "mujer", "base": "mujer" },
+  {
+    "id": "983",
+    "word": "wonder",
+    "translate": "preguntarse",
+    "base": "preguntarse"
+  },
+  { "id": "984", "word": "word", "translate": "palabra", "base": "palabra" },
+  { "id": "985", "word": "work", "translate": "trabajo", "base": "trabajo" },
+  { "id": "986", "word": "worker", "translate": "obrero", "base": "obrero" },
+  { "id": "987", "word": "world", "translate": "mundo", "base": "mundo" },
+  {
+    "id": "988",
+    "word": "worry",
+    "translate": "preocupación",
+    "base": "preocupacion"
+  },
+  { "id": "989", "word": "worth", "translate": "valor", "base": "valor" },
+  { "id": "990", "word": "would", "translate": "haría", "base": "haria" },
+  { "id": "991", "word": "write", "translate": "escribir", "base": "escribir" },
+  {
+    "id": "992",
+    "word": "wrong",
+    "translate": "incorrecto",
+    "base": "incorrecto"
+  },
+  { "id": "993", "word": "yeah", "translate": "sí", "base": "si" },
+  { "id": "994", "word": "year", "translate": "año", "base": "año" },
+  { "id": "995", "word": "yes", "translate": "sí", "base": "si" },
+  { "id": "996", "word": "yesterday", "translate": "ayer", "base": "ayer" },
+  { "id": "997", "word": "yet", "translate": "todavía", "base": "todavia" },
+  { "id": "998", "word": "you", "translate": "tú", "base": "tu" },
+  { "id": "999", "word": "young", "translate": "joven", "base": "joven" },
+  {
+    "id": "1000",
+    "word": "yourself",
+    "translate": "tú mismo",
+    "base": "tu mismo"
+  }
+]

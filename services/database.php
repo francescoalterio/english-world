@@ -52,6 +52,7 @@ class Database
             $sql = $this->connection->prepare("SELECT * FROM users WHERE email = :email");
             $sql->execute(["email" => $email]);
             $userData = $sql->fetch();
+
             if ($userData && password_verify($password, $userData['password'])) {
                 return ["status" => "success", "userData" => ["id" => $userData['id'], "username" => $userData['username'], "email" => $userData['email']]];
             } else {
