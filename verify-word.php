@@ -41,12 +41,15 @@ if ($_SERVER['REQUEST_METHOD'] === "POST") {
 
     if (!is_null($wordResult)) {
         $userTranslationIsCorrect = false;
+        $userTranslationLower = strtolower($userTranslation);
         foreach ($wordResult['allTranslations'] as $translation) {
-            if ($translation === $userTranslation) {
+            if ($translation === $userTranslationLower) {
                 $userTranslationIsCorrect = true;
             }
         }
-        echo json_encode(["user-translation-is-correct" => $userTranslationIsCorrect]);
+        $response = ["id" => $wordResult['id'], "word" => $wordResult['word'], "translate" => $wordResult['translate'], "user-translation" => $userTranslation, "user-translation-is-correct" =>  $userTranslationIsCorrect];
+
+        echo json_encode($response);
         die();
     };
 }

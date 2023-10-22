@@ -28,12 +28,13 @@ $user = $_SESSION['user'];
     <?php endif ?>
 
     <main>
-        <div id="game-container">
+        <form action="">
             <button id="start">Start</button>
-        </div>
+        </form>
     </main>
+    <script src="./js/app.js" type="module"></script>
 </body>
 
-<script src="./js/index.js" type="module"></script>
+
 
 </html>

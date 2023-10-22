@@ -1,9 +1,6 @@
-import { $, element } from "./tools.js";
+import { $, element } from "../tools.js";
 
-export function startGame() {
-  const $container = $("#game-container");
-
-  const $form = element("form");
+export function QuestionComponent({ $container }) {
   const $p = element("p");
   const $input = element("input");
   const $button = element("button");
@@ -27,9 +24,7 @@ export function startGame() {
 
   $button.textContent = "Check";
 
-  $form.append($p, $input, $button, $indexContainer);
-  $container.innerHTML = "";
-  $container.appendChild($form);
+  $container.append($p, $input, $button, $indexContainer);
 
-  return [$form, $p, $input, $indexContainer, $indexs];
+  return [$p, $input, $indexContainer, $indexs];
 }
