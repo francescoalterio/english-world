@@ -44,8 +44,9 @@ async function init() {
 function Navigation(ComponentName) {
   $form.innerHTML = "";
   if (ComponentName === "QUESTION") {
-    const [$p, $input, $indexContainer, $indexs] = QuestionComponent({
+    const [$title, $p, $input, $indexContainer, $indexs] = QuestionComponent({
       $container: $form,
+      wordsState,
     });
     setNewQuestion({ $p, question: words[0] });
   } else if (ComponentName === "ANSWER") {
@@ -54,8 +55,7 @@ function Navigation(ComponentName) {
       wordData: wordsState[wordsState.length - 1],
     });
   } else if (ComponentName === "FINAL") {
-    console.log({ words, wordsState });
-    FinalComponent({ $container: $form });
+    FinalComponent({ $container: $form, wordsState });
   } else if (ComponentName === "INITIAL") {
     InitialComponent({ $container: $form });
   }
@@ -78,5 +78,9 @@ async function sendQuestionHandler({ formTarget, wordsState }) {
 }
 
 function setNewQuestion({ $p, question }) {
-  $p.textContent = question.word;
+  const questionSplitted = question.word.split("");
+  const firstLetterUpperCase = questionSplitted
+    .map((x, i) => (i === 0 ? x.toUpperCase() : x))
+    .join("");
+  $p.textContent = firstLetterUpperCase;
 }

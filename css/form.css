@@ -1,0 +1,170 @@
+.image-container {
+  width: 60vw;
+  background-color: var(--dark-white);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-container {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--light-white);
+  justify-content: space-between;
+  padding: 30px 80px;
+}
+
+.presentation-image {
+  width: 60%;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  height: 100%;
+}
+
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.details {
+  color: var(--gray);
+  font-weight: 600;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  height: 100%;
+}
+
+input {
+  width: 100%;
+  border: none;
+  background: transparent;
+  border-bottom: 2px solid var(--light-gray);
+  padding: 12px 0px;
+  outline: none;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.input-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.submit-container {
+  width: 100%;
+}
+
+.submit-button {
+  width: 100%;
+  color: var(--light-white);
+  background-color: var(--black);
+  border-radius: 9999px;
+  border: none;
+  padding: 14px 0;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+.redirect-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.redirect-text {
+  font-weight: 600;
+  color: var(--gray);
+  text-align: center;
+}
+
+.redirect-sign {
+  color: black;
+  text-decoration: none;
+  margin-left: 4px;
+}
+
+#error {
+  color: rgb(255, 81, 81);
+}
+
+@media (min-width: 1280px) {
+}
+
+@media (max-width: 1280px) {
+  h1 {
+    font-size: 40px;
+  }
+  .image-container {
+    width: 50%;
+  }
+  .info-container {
+    width: 50%;
+    padding: 30px 80px;
+  }
+}
+
+@media (max-width: 1280px) {
+  h1 {
+    font-size: 40px;
+  }
+  .image-container {
+    width: 50%;
+  }
+  .info-container {
+    width: 50%;
+    padding: 30px 50px;
+  }
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 44px;
+  }
+  form {
+    justify-content: space-between;
+  }
+
+  .submit-button {
+    margin-bottom: 20px;
+  }
+  .image-container {
+    display: none;
+  }
+  .info-container {
+    width: 100%;
+    padding: 30px 100px;
+  }
+}
+
+@media (max-width: 640px) {
+  h1 {
+    font-size: 44px;
+  }
+  .info-container {
+    padding: 30px 80px;
+  }
+}
+
+@media (max-width: 500px) {
+  h1 {
+    font-size: 36px;
+  }
+  .info-container {
+    padding: 30px 30px;
+  }
+}

@@ -1,30 +1,26 @@
 import { $, element } from "../tools.js";
+import { Indexs } from "./Indexs.js";
 
-export function QuestionComponent({ $container }) {
+export function QuestionComponent({ $container, wordsState }) {
+  const $title = element("p");
   const $p = element("p");
   const $input = element("input");
   const $button = element("button");
-  const $indexContainer = element("div");
-  const $indexs = [];
-  for (let i = 1; i <= 10; i++) {
-    const $index = element("div");
-    $index.classList.add("index");
-    $indexs.push($index);
-  }
 
+  const $indexContainer = Indexs({ wordsState });
+
+  $title.setAttribute("id", "title");
   $p.setAttribute("id", "word");
   $input.setAttribute("type", "text");
   $input.setAttribute("name", "translate");
+  $input.setAttribute("placeholder", "correr...");
   $button.setAttribute("type", "submit");
-  $indexContainer.setAttribute("id", "index-container");
+  $button.classList.add("primary-button");
 
-  $indexs.forEach((e) => {
-    $indexContainer.appendChild(e);
-  });
-
+  $title.textContent = "The word to translate is...";
   $button.textContent = "Check";
 
-  $container.append($p, $input, $button, $indexContainer);
+  $container.append($title, $p, $input, $indexContainer, $button);
 
-  return [$p, $input, $indexContainer, $indexs];
+  return [$title, $p, $input, $indexContainer];
 }
